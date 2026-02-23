@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  database:
+    image: mongo:8.2.3
+    container_name: cs2_skins_market
+    ports:
+      - "27018:27017"

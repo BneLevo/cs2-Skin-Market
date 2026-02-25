@@ -28,19 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
+            flpSkins = new FlowLayoutPanel();
             SuspendLayout();
+            // 
+            // flpSkins
+            // 
+            flpSkins.AutoScroll = true;
+            flpSkins.Dock = DockStyle.Fill;
+            flpSkins.Location = new Point(0, 0);
+            flpSkins.Name = "flpSkins";
+            flpSkins.Size = new Size(800, 450);
+            flpSkins.TabIndex = 0;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ControlLight;
             ClientSize = new Size(800, 450);
+            Controls.Add(flpSkins);
             Name = "Form1";
             Text = "Form1";
+            WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             ResumeLayout(false);
         }
 
         #endregion
+
+        private FlowLayoutPanel flpSkins;
     }
 }

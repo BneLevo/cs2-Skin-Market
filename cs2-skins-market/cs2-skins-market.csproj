@@ -13,4 +13,10 @@
     <PackageReference Include="MongoDB.Driver" Version="3.6.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="db\csSkins.skins.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

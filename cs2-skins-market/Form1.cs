@@ -16,7 +16,7 @@ namespace cs2_skins_market
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        {
+        {   
             ShowSkins();
         }
 
@@ -71,7 +71,6 @@ namespace cs2_skins_market
                     TextAlign = ContentAlignment.MiddleCenter
                 };
 
-                // 5. SATIN AL BUTONU
                 Button btnBuy = new Button
                 {
                     Text = "PURCHASE",
@@ -86,7 +85,7 @@ namespace cs2_skins_market
                 btnBuy.FlatAppearance.BorderSize = 0;
 
                 btnBuy.Click += (s, e) => {
-                    MessageBox.Show($"{skin.Name} satın alma işlemi yakında eklenecek!", "Marketplace");
+                    MessageBox.Show($"You will be soon able to purchase {skin.Name}!", "Marketplace");
                 };
 
                 card.MouseEnter += (s, e) => card.BackColor = Color.FromArgb(50, 50, 50);

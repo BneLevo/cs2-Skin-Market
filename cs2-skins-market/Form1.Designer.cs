@@ -36,6 +36,7 @@
             flpSkins.AutoScroll = true;
             flpSkins.Dock = DockStyle.Fill;
             flpSkins.Location = new Point(0, 0);
+            flpSkins.Margin = new Padding(3, 2, 3, 2);
             flpSkins.Name = "flpSkins";
             flpSkins.Size = new Size(800, 450);
             flpSkins.TabIndex = 0;

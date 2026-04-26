@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using MongoDB.Bson;
-using MongoDB.Driver;
+﻿using MongoDB.Driver;
 
-namespace cs2_skins_market
+namespace cs2_skins_market.Data
 {
     public sealed class MongoDBconnect
     {

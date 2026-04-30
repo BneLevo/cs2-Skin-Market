@@ -77,5 +77,25 @@ namespace cs2_skins_market
 
             ShowSkins(skins);
         }
+
+        bool allSkins = true;
+        private void txtSearch_TextChanged(object sender, EventArgs e)
+        {
+            string keyword = txtSearch.Text.Trim();
+
+            if (keyword.Length <= 2 && allSkins == false)
+            {
+                var results = _skinService.GetAllSkins();
+                allSkins = true;
+                ShowSkins(results);
+            }
+            if (keyword.Length >= 3)
+            {
+                var results = _skinService.GetSkinsByName(keyword);
+                allSkins = false;
+                ShowSkins(results);
+            }
+         
+        }
     }
 }

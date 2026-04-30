@@ -34,5 +34,23 @@ namespace cs2_skins_market.Data.Repositories
         }
 
         public long GetCount() => _collection.CountDocuments(FilterDefinition<Skin>.Empty);
+
+        public List<Skin> GetSkinsByMinPrice(double min)
+        {
+            var filter = Builders<Skin>.Filter.Gte(s => s.Price, min);
+            return _collection.Find(filter).ToList();
+        }
+
+        public List<Skin> GetSkinsByMaxPrice(double max)
+        {
+            var filter = Builders<Skin>.Filter.Lte(s => s.Price, max);
+            return _collection.Find(filter).ToList();
+        }
+
+        public List<Skin> GetSkinsByPriceRange(double min, double max)
+        {
+            var filter = Builders<Skin>.Filter.Gte(s => s.Price, min) & Builders<Skin>.Filter.Lte(s => s.Price, max);
+            return _collection.Find(filter).ToList();
+        }
     }
 }

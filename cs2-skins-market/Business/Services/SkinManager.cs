@@ -19,5 +19,18 @@ namespace cs2_skins_market.Business.Services
         {
             return _skinRepo.GetAllSkins();
         }
+        public List<Skin> GetSkinsByMinPrice(double min)
+        {
+            return _skinRepo.GetSkinsByMinPrice(min);
+        }
+
+        public List<Skin> GetSkinsByMaxPrice(double max)
+        {
+            return _skinRepo.GetSkinsByMaxPrice(max);
+        }
+        public List<Skin> GetSkinsByPriceRange(double min, double max)
+        {
+            return _skinRepo.GetSkinsByPriceRange(min, max);
+        }
     }
 }

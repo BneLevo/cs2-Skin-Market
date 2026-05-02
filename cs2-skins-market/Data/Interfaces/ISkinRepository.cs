@@ -6,12 +6,7 @@ namespace cs2_skins_market.Data.Interfaces
     {
         List<Skin> GetAllSkins();
         void InsertMany(List<Skin> initialData);
-
-        // Filter 
-        List<Skin> GetSkinsByName(string name);
-        List<Skin> GetSkinsByMinPrice(double min);
-        List<Skin> GetSkinsByMaxPrice(double max);
-        List<Skin> GetSkinsByPriceRange(double min, double max);
+        List<Skin> GetSkinsByFilter(string name, double min, double max);
 
     }
 }

@@ -35,48 +35,37 @@ namespace cs2_skins_market.Data.Repositories
 
         public long GetCount() => _collection.CountDocuments(FilterDefinition<Skin>.Empty);
 
-        public List<Skin> GetSkinsByName(string name)
+        public List<Skin> GetSkinsByFilter(string name, double min, double max)
         {
-            // 1. On divise la recherche en mots-clés (ex: "Red" et "Butterfly")
-            // 'RemoveEmptyEntries' évite les erreurs s'il y a plusieurs espaces
-            var words = name.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-
             var builder = Builders<Skin>.Filter;
+            var filters = new List<FilterDefinition<Skin>>();
 
-            // Liste pour stocker les filtres individuels de chaque mot
-            var filterList = new List<FilterDefinition<Skin>>();
-
-            // 2. Création d'un filtre Regex pour chaque mot-clé
-            foreach (var word in words)
+            if (!string.IsNullOrWhiteSpace(name))
             {
-                // "i" signifie case-insensitive (ignore la casse Majuscule/Minuscule)
-                filterList.Add(builder.Regex(s => s.Name, new MongoDB.Bson.BsonRegularExpression(word, "i")));
+                var words = name.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                foreach (var word in words)
+                {
+                    filters.Add(builder.Regex(s => s.Name, new MongoDB.Bson.BsonRegularExpression(word, "i")));
+                }
             }
 
-            // 3. On combine tous les filtres avec l'opérateur "AND"
-            // Le skin doit contenir TOUS les mots-clés pour être affiché
-            var combinedFilter = builder.And(filterList);
+            if (min > 0)
+            {
+                filters.Add(builder.Gte(s => s.Price, min));
+            }
 
-            // 4. Exécution de la requête sur la collection MongoDB
+            if (max < double.MaxValue)
+            {
+                filters.Add(builder.Lte(s => s.Price, max));
+            }
+
+            if (filters.Count == 0)
+            {
+                return _collection.Find(builder.Empty).ToList();
+            }
+
+            var combinedFilter = builder.And(filters);
             return _collection.Find(combinedFilter).ToList();
-        }
-
-        public List<Skin> GetSkinsByMinPrice(double min)
-        {
-            var filter = Builders<Skin>.Filter.Gte(s => s.Price, min);
-            return _collection.Find(filter).ToList();
-        }
-
-        public List<Skin> GetSkinsByMaxPrice(double max)
-        {
-            var filter = Builders<Skin>.Filter.Lte(s => s.Price, max);
-            return _collection.Find(filter).ToList();
-        }
-
-        public List<Skin> GetSkinsByPriceRange(double min, double max)
-        {
-            var filter = Builders<Skin>.Filter.Gte(s => s.Price, min) & Builders<Skin>.Filter.Lte(s => s.Price, max);
-            return _collection.Find(filter).ToList();
         }
     }
 }

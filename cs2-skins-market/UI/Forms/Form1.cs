@@ -42,8 +42,10 @@ namespace cs2_skins_market
 
         private void btnFilter_Click(object sender, EventArgs e)
         {
+            string searchName = txtSearch.Text;
             double.TryParse(txtMinPrice.Text, out double min);
             double.TryParse(txtMaxPrice.Text, out double max);
+
             if (max <= 0) max = double.MaxValue;
 
             if (min > max)
@@ -52,30 +54,9 @@ namespace cs2_skins_market
                 return;
             }
 
-            List<Skin> skins;
+            var filteredSkins = _skinService.GetSkinsByFilter(searchName, min, max);
 
-            // Between min and max
-            if (min > 0 && max < double.MaxValue)
-            {
-                skins = _skinService.GetSkinsByPriceRange(min, max);
-            }
-            // Only min
-            else if (min > 0)
-            {
-                skins = _skinService.GetSkinsByMinPrice(min);
-            }
-            // Only max
-            else if (max < double.MaxValue)
-            {
-                skins = _skinService.GetSkinsByMaxPrice(max);
-            }
-            // Both empty
-            else
-            {
-                skins = _skinService.GetAllSkins();
-            }
-
-            ShowSkins(skins);
+            ShowSkins(filteredSkins);
         }
 
         bool allSkins = true;
@@ -91,7 +72,7 @@ namespace cs2_skins_market
             }
             if (keyword.Length >= 3)
             {
-                var results = _skinService.GetSkinsByName(keyword);
+                var results = _skinService.GetSkinsByFilter(keyword, 0, double.MaxValue);
                 allSkins = false;
                 ShowSkins(results);
             }

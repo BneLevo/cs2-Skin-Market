@@ -7,7 +7,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037362/256x128",
     "price": 286.24,
     "item": "SSG 08",
-    "skinName": "Dragonfire"
+    "skinName": "Dragonfire",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -17,7 +18,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2221333795/256x128",
     "price": 1032.34,
     "item": "Butterfly Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -27,7 +29,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6216439265/256x128",
     "price": 382.52,
     "item": "M4A1-S",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -37,7 +40,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038043/256x128",
     "price": 539.86,
     "item": "Sport Gloves",
-    "skinName": "Vice"
+    "skinName": "Vice",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -47,7 +51,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038185/256x128",
     "price": 699.59,
     "item": "M4A1-S",
-    "skinName": "Blue Phosphor"
+    "skinName": "Blue Phosphor",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -57,7 +62,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036091/256x128",
     "price": 1336.51,
     "item": "Butterfly Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -67,7 +73,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038111/256x128",
     "price": 221.22,
     "item": "Driver Gloves",
-    "skinName": "Imperial Plaid"
+    "skinName": "Imperial Plaid",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -77,7 +84,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2076632745/256x128",
     "price": 284.48,
     "item": "M4A4",
-    "skinName": "Buzz Kill"
+    "skinName": "Buzz Kill",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -87,7 +95,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141927148/256x128",
     "price": 615.61,
     "item": "Sport Gloves",
-    "skinName": "Nocts"
+    "skinName": "Nocts",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -97,7 +106,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042582/256x128",
     "price": 2155.92,
     "item": "Butterfly Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -107,7 +117,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2076620928/256x128",
     "price": 361.61,
     "item": "M4A4",
-    "skinName": "Buzz Kill"
+    "skinName": "Buzz Kill",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -117,7 +128,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035711/256x128",
     "price": 343.14,
     "item": "Driver Gloves",
-    "skinName": "Snow Leopard"
+    "skinName": "Snow Leopard",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -127,7 +139,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724501/256x128",
     "price": 852.83,
     "item": "M4A4",
-    "skinName": "The Coalition"
+    "skinName": "The Coalition",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -137,7 +150,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037779/256x128",
     "price": 419,
     "item": "Talon Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -147,7 +161,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/992174037/256x128",
     "price": 2210.11,
     "item": "M4A1-S",
-    "skinName": "Hot Rod"
+    "skinName": "Hot Rod",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -157,7 +172,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037605/256x128",
     "price": 339.93,
     "item": "Sport Gloves",
-    "skinName": "Amphibious"
+    "skinName": "Amphibious",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -167,7 +183,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036994/256x128",
     "price": 787.83,
     "item": "Karambit",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -177,7 +194,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077654831/256x128",
     "price": 1473.52,
     "item": "Driver Gloves",
-    "skinName": "Lunar Weave"
+    "skinName": "Lunar Weave",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -187,7 +205,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037546/256x128",
     "price": 233.2,
     "item": "Sport Gloves",
-    "skinName": "Omega"
+    "skinName": "Omega",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -197,7 +216,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520025252/256x128",
     "price": 490.96,
     "item": "Container",
-    "skinName": "Operation Breakout Weapon Case"
+    "skinName": "Operation Breakout Weapon Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -207,7 +227,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039023/256x128",
     "price": 783.47,
     "item": "Butterfly Knife",
-    "skinName": "Autotronic"
+    "skinName": "Autotronic",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -217,7 +238,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039598/256x128",
     "price": 655.23,
     "item": "M4A4",
-    "skinName": "The Coalition"
+    "skinName": "The Coalition",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -227,7 +249,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039536/256x128",
     "price": 543.33,
     "item": "Talon Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -237,7 +260,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042027/256x128",
     "price": 445.59,
     "item": "Sport Gloves",
-    "skinName": "Slingshot"
+    "skinName": "Slingshot",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -247,7 +271,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039061/256x128",
     "price": 1041.55,
     "item": "Butterfly Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -257,7 +282,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040463/256x128",
     "price": 1889.55,
     "item": "Butterfly Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -267,7 +293,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036534/256x128",
     "price": 379.44,
     "item": "M4A1-S",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -277,7 +304,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039819/256x128",
     "price": 645.93,
     "item": "M9 Bayonet",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -287,7 +315,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037136/256x128",
     "price": 161.07,
     "item": "Driver Gloves",
-    "skinName": "King Snake"
+    "skinName": "King Snake",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -297,7 +326,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578752737/256x128",
     "price": 2429.96,
     "item": "Butterfly Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -307,7 +337,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040834/256x128",
     "price": 1211.26,
     "item": "Karambit",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -317,7 +348,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/310854699/256x128",
     "price": 1747.22,
     "item": "Karambit",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -327,7 +359,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036896/256x128",
     "price": 9459.66,
     "item": "AWP",
-    "skinName": "Dragon Lore"
+    "skinName": "Dragon Lore",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -337,7 +370,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2521767801/256x128",
     "price": 449.58,
     "item": "Container",
-    "skinName": "Spectrum 2 Case"
+    "skinName": "Spectrum 2 Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -347,7 +381,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039799/256x128",
     "price": 2507.99,
     "item": "Driver Gloves",
-    "skinName": "Crimson Weave"
+    "skinName": "Crimson Weave",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -357,7 +392,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/720482003/256x128",
     "price": 922.89,
     "item": "Karambit",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -367,7 +403,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035504/256x128",
     "price": 248.86,
     "item": "Sport Gloves",
-    "skinName": "Scarlet Shamagh"
+    "skinName": "Scarlet Shamagh",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -377,7 +414,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2737281272/256x128",
     "price": 218.94,
     "item": "Specialist Gloves",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -387,7 +425,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578925723/256x128",
     "price": 1842.54,
     "item": "Butterfly Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -397,7 +436,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4717330486/256x128",
     "price": 461.74,
     "item": "Container",
-    "skinName": "Dreams & Nightmares Case"
+    "skinName": "Dreams & Nightmares Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -407,7 +447,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039423/256x128",
     "price": 1172.19,
     "item": "Butterfly Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -417,7 +458,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/721076282/256x128",
     "price": 1937.09,
     "item": "Karambit",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -427,7 +469,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038920/256x128",
     "price": 1183.3,
     "item": "M9 Bayonet",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -437,7 +480,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039924/256x128",
     "price": 141.43,
     "item": "Specialist Gloves",
-    "skinName": "Crimson Web"
+    "skinName": "Crimson Web",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -447,7 +491,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520172396/256x128",
     "price": 1223.96,
     "item": "Butterfly Knife",
-    "skinName": "Vanilla"
+    "skinName": "Vanilla",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -457,7 +502,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/188530424/256x128",
     "price": 701.75,
     "item": "Desert Eagle",
-    "skinName": "Blaze"
+    "skinName": "Blaze",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -467,7 +513,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/721281532/256x128",
     "price": 1244.33,
     "item": "Karambit",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -477,7 +524,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/188530250/256x128",
     "price": 525.39,
     "item": "AWP",
-    "skinName": "Lightning Strike"
+    "skinName": "Lightning Strike",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -487,7 +535,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578740231/256x128",
     "price": 616.07,
     "item": "Butterfly Knife",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -497,7 +546,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036319/256x128",
     "price": 48.07,
     "item": "AK-47",
-    "skinName": "Inheritance"
+    "skinName": "Inheritance",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -507,7 +557,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035494/256x128",
     "price": 194.48,
     "item": "M4A1-S",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -517,7 +568,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2964908643/256x128",
     "price": 298.21,
     "item": "Talon Knife",
-    "skinName": "Vanilla"
+    "skinName": "Vanilla",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -527,7 +579,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041233/256x128",
     "price": 318,
     "item": "Skeleton Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -537,7 +590,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040914/256x128",
     "price": 829.56,
     "item": "M9 Bayonet",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -547,7 +601,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2737954995/256x128",
     "price": 1713.83,
     "item": "Sport Gloves",
-    "skinName": "Vice"
+    "skinName": "Vice",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -557,7 +612,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041074/256x128",
     "price": 366.84,
     "item": "Skeleton Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -567,7 +623,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/721594909/256x128",
     "price": 1142.94,
     "item": "Karambit",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -577,7 +634,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578755418/256x128",
     "price": 9260.31,
     "item": "Butterfly Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -587,7 +645,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578739191/256x128",
     "price": 548.2,
     "item": "Butterfly Knife",
-    "skinName": "Freehand"
+    "skinName": "Freehand",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -597,7 +656,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040322/256x128",
     "price": 1365.53,
     "item": "Butterfly Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -607,7 +667,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1923037342/256x128",
     "price": 193.91,
     "item": "Container",
-    "skinName": "Gamma 2 Case"
+    "skinName": "Gamma 2 Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -617,7 +678,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039323/256x128",
     "price": 267.3,
     "item": "Bayonet",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -627,7 +689,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038502/256x128",
     "price": 226.62,
     "item": "Hand Wraps",
-    "skinName": "Cobalt Skulls"
+    "skinName": "Cobalt Skulls",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -637,7 +700,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040220/256x128",
     "price": 125.75,
     "item": "Moto Gloves",
-    "skinName": "Polygon"
+    "skinName": "Polygon",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -647,7 +711,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039900/256x128",
     "price": 257.88,
     "item": "Stiletto Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -657,7 +722,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038069/256x128",
     "price": 152.02,
     "item": "Driver Gloves",
-    "skinName": "Black Tie"
+    "skinName": "Black Tie",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -667,7 +733,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3955277385/256x128",
     "price": 32.26,
     "item": "Desert Eagle",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -677,7 +744,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/201966840/256x128",
     "price": 645.5,
     "item": "AK-47",
-    "skinName": "Fire Serpent"
+    "skinName": "Fire Serpent",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -687,7 +755,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039330/256x128",
     "price": 58.06,
     "item": "MP9",
-    "skinName": "Starlight Protector"
+    "skinName": "Starlight Protector",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -697,7 +766,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1797256701/256x128",
     "price": 281.57,
     "item": "Container",
-    "skinName": "Gamma Case"
+    "skinName": "Gamma Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -707,7 +777,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3609098709/256x128",
     "price": 236.68,
     "item": "Skeleton Knife",
-    "skinName": "Vanilla"
+    "skinName": "Vanilla",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -717,7 +788,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037140/256x128",
     "price": 477.03,
     "item": "Butterfly Knife",
-    "skinName": "Bright Water"
+    "skinName": "Bright Water",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -727,7 +799,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918191812/256x128",
     "price": 0.59,
     "item": "Container",
-    "skinName": "Fever Case"
+    "skinName": "Fever Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -737,7 +810,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/992128244/256x128",
     "price": 691.03,
     "item": "M4A1-S",
-    "skinName": "Icarus Fell"
+    "skinName": "Icarus Fell",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -747,7 +821,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/384801297/256x128",
     "price": 183.42,
     "item": "Container",
-    "skinName": "CS:GO Weapon Case"
+    "skinName": "CS:GO Weapon Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -757,7 +832,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/926978479/256x128",
     "price": 318.09,
     "item": "Container",
-    "skinName": "Chroma 2 Case"
+    "skinName": "Chroma 2 Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -767,7 +843,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993045955/256x128",
     "price": 735.37,
     "item": "M9 Bayonet",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -777,7 +854,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2220186713/256x128",
     "price": 4263,
     "item": "Butterfly Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -787,7 +865,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037755/256x128",
     "price": 147.48,
     "item": "Specialist Gloves",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -797,7 +876,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037190/256x128",
     "price": 792.11,
     "item": "Talon Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -807,7 +887,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040351/256x128",
     "price": 1889.55,
     "item": "Butterfly Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -817,7 +898,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918222740/256x128",
     "price": 46.09,
     "item": "AWP",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -827,7 +909,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038555/256x128",
     "price": 214.16,
     "item": "AK-47",
-    "skinName": "B the Monster"
+    "skinName": "B the Monster",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -837,7 +920,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578744739/256x128",
     "price": 903.3,
     "item": "Butterfly Knife",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -847,7 +931,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520027233/256x128",
     "price": 142.37,
     "item": "P90",
-    "skinName": "Asiimov"
+    "skinName": "Asiimov",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -857,7 +942,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036892/256x128",
     "price": 133.02,
     "item": "Moto Gloves",
-    "skinName": "Blood Pressure"
+    "skinName": "Blood Pressure",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -867,7 +953,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077670040/256x128",
     "price": 677.3,
     "item": "M4A4",
-    "skinName": "Buzz Kill"
+    "skinName": "Buzz Kill",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -877,7 +964,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/360479494/256x128",
     "price": 102.19,
     "item": "AWP",
-    "skinName": "Asiimov"
+    "skinName": "Asiimov",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -887,7 +975,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520029416/256x128",
     "price": 142.01,
     "item": "M4A1-S",
-    "skinName": "Cyrex"
+    "skinName": "Cyrex",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -897,7 +986,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/469664807/256x128",
     "price": 352,
     "item": "AK-47",
-    "skinName": "Vulcan"
+    "skinName": "Vulcan",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -907,7 +997,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039328/256x128",
     "price": 829.56,
     "item": "Glock-18",
-    "skinName": "Twilight Galaxy"
+    "skinName": "Twilight Galaxy",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -917,7 +1008,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5721077182/256x128",
     "price": 188.65,
     "item": "Kukri Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -927,7 +1019,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724231/256x128",
     "price": 275.44,
     "item": "AK-47",
-    "skinName": "Leet Museo"
+    "skinName": "Leet Museo",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -937,7 +1030,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036958/256x128",
     "price": 27.65,
     "item": "AK-47",
-    "skinName": "Redline"
+    "skinName": "Redline",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -947,7 +1041,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035486/256x128",
     "price": 57.37,
     "item": "AK-47",
-    "skinName": "Nightwish"
+    "skinName": "Nightwish",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -957,7 +1052,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036976/256x128",
     "price": 276.1,
     "item": "M4A1-S",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -967,7 +1063,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039562/256x128",
     "price": 170.93,
     "item": "Sport Gloves",
-    "skinName": "Big Game"
+    "skinName": "Big Game",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -977,7 +1074,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037832/256x128",
     "price": 500.13,
     "item": "Skeleton Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -987,7 +1085,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039715/256x128",
     "price": 436.75,
     "item": "Bayonet",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -997,7 +1096,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724323/256x128",
     "price": 598.53,
     "item": "Butterfly Knife",
-    "skinName": "Black Laminate"
+    "skinName": "Black Laminate",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1007,7 +1107,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036792/256x128",
     "price": 284.96,
     "item": "M4A4",
-    "skinName": "Buzz Kill"
+    "skinName": "Buzz Kill",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1017,7 +1118,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/720878002/256x128",
     "price": 1013.9,
     "item": "M9 Bayonet",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1027,7 +1129,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6216418778/256x128",
     "price": 386.2,
     "item": "AK-47",
-    "skinName": "B the Monster"
+    "skinName": "B the Monster",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1037,7 +1140,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038728/256x128",
     "price": 258.65,
     "item": "Stiletto Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1047,7 +1151,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2316460259/256x128",
     "price": 728.17,
     "item": "M4A4",
-    "skinName": "Hellfire"
+    "skinName": "Hellfire",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1057,7 +1162,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141779051/256x128",
     "price": 54.87,
     "item": "The Professionals",
-    "skinName": "Number K"
+    "skinName": "Number K",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -1067,7 +1173,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/188530425/256x128",
     "price": 1621.11,
     "item": "Glock-18",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -1077,7 +1184,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1690096482/256x128",
     "price": 212.17,
     "item": "Container",
-    "skinName": "Chroma 3 Case"
+    "skinName": "Chroma 3 Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -1087,7 +1195,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/506853387/256x128",
     "price": 3530.58,
     "item": "M4A4",
-    "skinName": "Howl"
+    "skinName": "Howl",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1097,7 +1206,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520030583/256x128",
     "price": 165.26,
     "item": "M4A1-S",
-    "skinName": "Cyrex"
+    "skinName": "Cyrex",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1107,7 +1217,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2220027148/256x128",
     "price": 152.09,
     "item": "AK-47",
-    "skinName": "Bloodsport"
+    "skinName": "Bloodsport",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1117,7 +1228,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041101/256x128",
     "price": 1013.9,
     "item": "M9 Bayonet",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1127,7 +1239,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039913/256x128",
     "price": 774.25,
     "item": "AWP",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -1137,7 +1250,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038229/256x128",
     "price": 579.28,
     "item": "M4A4",
-    "skinName": "Eye of Horus"
+    "skinName": "Eye of Horus",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1147,7 +1261,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040299/256x128",
     "price": 5875.16,
     "item": "Sport Gloves",
-    "skinName": "Hedge Maze"
+    "skinName": "Hedge Maze",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1157,7 +1272,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037278/256x128",
     "price": 174.21,
     "item": "AK-47",
-    "skinName": "Vulcan"
+    "skinName": "Vulcan",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1167,7 +1283,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035568/256x128",
     "price": 329.98,
     "item": "Bayonet",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1177,7 +1294,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040052/256x128",
     "price": 377.91,
     "item": "Bayonet",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1187,7 +1305,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041594/256x128",
     "price": 157.62,
     "item": "P90",
-    "skinName": "Asiimov"
+    "skinName": "Asiimov",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -1197,7 +1316,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141779073/256x128",
     "price": 92.17,
     "item": "The Professionals",
-    "skinName": "Sir Bloody Miami Darryl"
+    "skinName": "Sir Bloody Miami Darryl",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -1207,7 +1327,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037641/256x128",
     "price": 123.57,
     "item": "Moto Gloves",
-    "skinName": "Smoke Out"
+    "skinName": "Smoke Out",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1217,7 +1338,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993047160/256x128",
     "price": 610.39,
     "item": "Butterfly Knife",
-    "skinName": "Freehand"
+    "skinName": "Freehand",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1227,7 +1349,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724233/256x128",
     "price": 161.39,
     "item": "USP-S",
-    "skinName": "Whiteout"
+    "skinName": "Whiteout",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -1237,7 +1360,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035843/256x128",
     "price": 108.8,
     "item": "Specialist Gloves",
-    "skinName": "Mogul"
+    "skinName": "Mogul",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1247,7 +1371,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039414/256x128",
     "price": 154.75,
     "item": "Specialist Gloves",
-    "skinName": "Field Agent"
+    "skinName": "Field Agent",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1257,7 +1382,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993045648/256x128",
     "price": 359.81,
     "item": "Bayonet",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1267,7 +1393,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036242/256x128",
     "price": 60.12,
     "item": "Driver Gloves",
-    "skinName": "Overtake"
+    "skinName": "Overtake",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1277,7 +1404,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3608087501/256x128",
     "price": 739.34,
     "item": "Desert Eagle",
-    "skinName": "Emerald Jörmungandr"
+    "skinName": "Emerald Jörmungandr",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -1287,7 +1415,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041350/256x128",
     "price": 600.93,
     "item": "Driver Gloves",
-    "skinName": "Snow Leopard"
+    "skinName": "Snow Leopard",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1297,7 +1426,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/937306045/256x128",
     "price": 92.15,
     "item": "M4A1-S",
-    "skinName": "Hyper Beast"
+    "skinName": "Hyper Beast",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1307,7 +1437,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037299/256x128",
     "price": 72.36,
     "item": "AK-47",
-    "skinName": "Inheritance"
+    "skinName": "Inheritance",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1317,7 +1448,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/311842183/256x128",
     "price": 945.68,
     "item": "Karambit",
-    "skinName": "Vanilla"
+    "skinName": "Vanilla",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1327,7 +1459,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039008/256x128",
     "price": 345.99,
     "item": "Bayonet",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1337,7 +1470,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3955315250/256x128",
     "price": 41.76,
     "item": "Desert Eagle",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -1347,7 +1481,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3106076656/256x128",
     "price": 462.66,
     "item": "Container",
-    "skinName": "Danger Zone Case"
+    "skinName": "Danger Zone Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -1357,7 +1492,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2971743833/256x128",
     "price": 188.33,
     "item": "Stiletto Knife",
-    "skinName": "Vanilla"
+    "skinName": "Vanilla",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1367,7 +1503,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/506853400/256x128",
     "price": 4239.45,
     "item": "M4A4",
-    "skinName": "Howl"
+    "skinName": "Howl",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1377,7 +1514,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4910476235/256x128",
     "price": 32.67,
     "item": "USP-S",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -1387,7 +1525,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520029997/256x128",
     "price": 140.77,
     "item": "M4A1-S",
-    "skinName": "Cyrex"
+    "skinName": "Cyrex",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1397,7 +1536,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2736877499/256x128",
     "price": 838.76,
     "item": "Sport Gloves",
-    "skinName": "Amphibious"
+    "skinName": "Amphibious",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1407,7 +1547,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2078318032/256x128",
     "price": 2856.44,
     "item": "Specialist Gloves",
-    "skinName": "Emerald Web"
+    "skinName": "Emerald Web",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1417,7 +1558,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043388/256x128",
     "price": 508.72,
     "item": "Karambit",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1427,7 +1569,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039409/256x128",
     "price": 185.54,
     "item": "Nomad Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1437,7 +1580,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578732327/256x128",
     "price": 1506.2,
     "item": "AWP",
-    "skinName": "Desert Hydra"
+    "skinName": "Desert Hydra",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -1447,7 +1591,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038008/256x128",
     "price": 129.04,
     "item": "AK-47",
-    "skinName": "Bloodsport"
+    "skinName": "Bloodsport",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1457,7 +1602,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2209581061/256x128",
     "price": 321.74,
     "item": "Container",
-    "skinName": "Spectrum Case"
+    "skinName": "Spectrum Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -1467,7 +1613,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038396/256x128",
     "price": 220.72,
     "item": "Nomad Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1477,7 +1624,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040008/256x128",
     "price": 921.73,
     "item": "M9 Bayonet",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1487,7 +1635,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/937754049/256x128",
     "price": 97.56,
     "item": "M4A1-S",
-    "skinName": "Hyper Beast"
+    "skinName": "Hyper Beast",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1497,7 +1646,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036616/256x128",
     "price": 147.94,
     "item": "Bowie Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1507,7 +1657,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993045485/256x128",
     "price": 217.77,
     "item": "Talon Knife",
-    "skinName": "Rust Coat"
+    "skinName": "Rust Coat",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1517,7 +1668,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038755/256x128",
     "price": 125.64,
     "item": "Paracord Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1527,7 +1679,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036023/256x128",
     "price": 182.87,
     "item": "AK-47",
-    "skinName": "Bloodsport"
+    "skinName": "Bloodsport",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1537,7 +1690,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/992215365/256x128",
     "price": 2184.21,
     "item": "M4A4",
-    "skinName": "Poseidon"
+    "skinName": "Poseidon",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1547,7 +1701,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520032493/256x128",
     "price": 2220.54,
     "item": "Butterfly Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1557,7 +1712,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2221323629/256x128",
     "price": 10241.44,
     "item": "Butterfly Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1567,7 +1723,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037372/256x128",
     "price": 83.77,
     "item": "AWP",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -1577,7 +1734,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724859/256x128",
     "price": 444.4,
     "item": "Container",
-    "skinName": "Operation Riptide Case"
+    "skinName": "Operation Riptide Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -1587,7 +1745,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035828/256x128",
     "price": 324.31,
     "item": "Sport Gloves",
-    "skinName": "Vice"
+    "skinName": "Vice",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1597,7 +1756,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/937246919/256x128",
     "price": 92.04,
     "item": "MAC-10",
-    "skinName": "Neon Rider"
+    "skinName": "Neon Rider",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -1607,7 +1767,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037360/256x128",
     "price": 85.72,
     "item": "Driver Gloves",
-    "skinName": "Rezan the Red"
+    "skinName": "Rezan the Red",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1617,7 +1778,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520040863/256x128",
     "price": 615.74,
     "item": "Butterfly Knife",
-    "skinName": "Crimson Web"
+    "skinName": "Crimson Web",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1627,7 +1789,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/380155439/256x128",
     "price": 83615.96,
     "item": "Sticker",
-    "skinName": "Titan (Holo) | Katowice 2014"
+    "skinName": "Titan (Holo) | Katowice 2014",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -1637,7 +1800,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039611/256x128",
     "price": 74.11,
     "item": "P250",
-    "skinName": "See Ya Later"
+    "skinName": "See Ya Later",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -1647,7 +1811,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4142273237/256x128",
     "price": 454.71,
     "item": "Sport Gloves",
-    "skinName": "Nocts"
+    "skinName": "Nocts",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1657,7 +1822,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2948874694/256x128",
     "price": 427.36,
     "item": "Container",
-    "skinName": "Horizon Case"
+    "skinName": "Horizon Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -1667,7 +1833,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041220/256x128",
     "price": 203.18,
     "item": "Specialist Gloves",
-    "skinName": "Tiger Strike"
+    "skinName": "Tiger Strike",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1677,7 +1844,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041144/256x128",
     "price": 1843.46,
     "item": "Karambit",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1687,7 +1855,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/310791287/256x128",
     "price": 1101.46,
     "item": "AK-47",
-    "skinName": "Fire Serpent"
+    "skinName": "Fire Serpent",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1697,7 +1866,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038619/256x128",
     "price": 109.75,
     "item": "Hand Wraps",
-    "skinName": "Overprint"
+    "skinName": "Overprint",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1707,7 +1877,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042573/256x128",
     "price": 2442.58,
     "item": "Talon Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1717,7 +1888,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037321/256x128",
     "price": 474.64,
     "item": "Butterfly Knife",
-    "skinName": "Rust Coat"
+    "skinName": "Rust Coat",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1727,7 +1899,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2078170433/256x128",
     "price": 2922.25,
     "item": "Sport Gloves",
-    "skinName": "Superconductor"
+    "skinName": "Superconductor",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1737,7 +1910,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2221339417/256x128",
     "price": 5735.18,
     "item": "Butterfly Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1747,7 +1921,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043443/256x128",
     "price": 173,
     "item": "Huntsman Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1757,7 +1932,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039832/256x128",
     "price": 525.39,
     "item": "Butterfly Knife",
-    "skinName": "Bright Water"
+    "skinName": "Bright Water",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1767,7 +1943,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/360499019/256x128",
     "price": 64.45,
     "item": "AWP",
-    "skinName": "Asiimov"
+    "skinName": "Asiimov",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -1777,7 +1954,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2532053313/256x128",
     "price": 72.82,
     "item": "AK-47",
-    "skinName": "The Empress"
+    "skinName": "The Empress",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1787,7 +1965,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041573/256x128",
     "price": 265.7,
     "item": "Talon Knife",
-    "skinName": "Damascus Steel"
+    "skinName": "Damascus Steel",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1797,7 +1976,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2736852972/256x128",
     "price": 108.57,
     "item": "Sport Gloves",
-    "skinName": "Bronze Morph"
+    "skinName": "Bronze Morph",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1807,7 +1987,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041439/256x128",
     "price": 426.04,
     "item": "Butterfly Knife",
-    "skinName": "Urban Masked"
+    "skinName": "Urban Masked",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1817,7 +1998,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578752671/256x128",
     "price": 1050.48,
     "item": "Butterfly Knife",
-    "skinName": "Autotronic"
+    "skinName": "Autotronic",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1827,7 +2009,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037455/256x128",
     "price": 60.12,
     "item": "MP9",
-    "skinName": "Starlight Protector"
+    "skinName": "Starlight Protector",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -1837,7 +2020,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036519/256x128",
     "price": 125.34,
     "item": "Survival Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1847,7 +2031,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036089/256x128",
     "price": 53.53,
     "item": "USP-S",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -1857,7 +2042,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2736553692/256x128",
     "price": 538.38,
     "item": "Driver Gloves",
-    "skinName": "Imperial Plaid"
+    "skinName": "Imperial Plaid",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1867,7 +2053,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1934517468/256x128",
     "price": 86.38,
     "item": "AK-47",
-    "skinName": "Neon Revolution"
+    "skinName": "Neon Revolution",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1877,7 +2064,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038023/256x128",
     "price": 1958.68,
     "item": "Butterfly Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1887,7 +2075,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043591/256x128",
     "price": 691.29,
     "item": "Butterfly Knife",
-    "skinName": "Freehand"
+    "skinName": "Freehand",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1897,7 +2086,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/188530251/256x128",
     "price": 221.22,
     "item": "AK-47",
-    "skinName": "Case Hardened"
+    "skinName": "Case Hardened",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1907,7 +2097,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2221441359/256x128",
     "price": 2488.67,
     "item": "Butterfly Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1917,7 +2108,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077997546/256x128",
     "price": 900,
     "item": "Hand Wraps",
-    "skinName": "Leather"
+    "skinName": "Leather",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1927,7 +2119,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/469444874/256x128",
     "price": 211.08,
     "item": "USP-S",
-    "skinName": "Orion"
+    "skinName": "Orion",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -1937,7 +2130,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037128/256x128",
     "price": 54.47,
     "item": "M4A1-S",
-    "skinName": "Vaporwave"
+    "skinName": "Vaporwave",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -1947,7 +2141,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6276323699/256x128",
     "price": 1484.77,
     "item": "Souvenir AWP",
-    "skinName": "Desert Hydra"
+    "skinName": "Desert Hydra",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -1957,7 +2152,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2220010298/256x128",
     "price": 136.68,
     "item": "Huntsman Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1967,7 +2163,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035503/256x128",
     "price": 762.27,
     "item": "Karambit",
-    "skinName": "Autotronic"
+    "skinName": "Autotronic",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -1977,7 +2174,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077639777/256x128",
     "price": 5300,
     "item": "Sport Gloves",
-    "skinName": "Pandora's Box"
+    "skinName": "Pandora's Box",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -1987,7 +2185,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040062/256x128",
     "price": 429.8,
     "item": "AWP",
-    "skinName": "Oni Taiji"
+    "skinName": "Oni Taiji",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -1997,7 +2196,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2316505018/256x128",
     "price": 377.74,
     "item": "Five-SeveN",
-    "skinName": "Hyper Beast"
+    "skinName": "Hyper Beast",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -2007,7 +2207,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038249/256x128",
     "price": 161.3,
     "item": "Falchion Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2017,7 +2218,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041646/256x128",
     "price": 746.38,
     "item": "Talon Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2027,7 +2229,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043308/256x128",
     "price": 547.02,
     "item": "Butterfly Knife",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2037,7 +2240,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4726109593/256x128",
     "price": 62.49,
     "item": "AK-47",
-    "skinName": "Nightwish"
+    "skinName": "Nightwish",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2047,7 +2251,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036202/256x128",
     "price": 654.86,
     "item": "Butterfly Knife",
-    "skinName": "Damascus Steel"
+    "skinName": "Damascus Steel",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2057,7 +2262,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036441/256x128",
     "price": 54.48,
     "item": "Hand Wraps",
-    "skinName": "Duct Tape"
+    "skinName": "Duct Tape",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2067,7 +2273,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040637/256x128",
     "price": 532.61,
     "item": "Butterfly Knife",
-    "skinName": "Night"
+    "skinName": "Night",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2077,7 +2284,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036948/256x128",
     "price": 363.94,
     "item": "M4A4",
-    "skinName": "Buzz Kill"
+    "skinName": "Buzz Kill",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2087,7 +2295,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3221879148/256x128",
     "price": 235.6,
     "item": "Talon Knife",
-    "skinName": "Ultraviolet"
+    "skinName": "Ultraviolet",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2097,7 +2306,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5199667758/256x128",
     "price": 53.91,
     "item": "AK-47",
-    "skinName": "Head Shot"
+    "skinName": "Head Shot",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2107,7 +2317,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037246/256x128",
     "price": 606.44,
     "item": "AK-47",
-    "skinName": "Vulcan"
+    "skinName": "Vulcan",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2117,7 +2328,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2735447931/256x128",
     "price": 48.34,
     "item": "M4A4",
-    "skinName": "Neo-Noir"
+    "skinName": "Neo-Noir",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2127,7 +2339,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040997/256x128",
     "price": 254.19,
     "item": "Sport Gloves",
-    "skinName": "Amphibious"
+    "skinName": "Amphibious",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2137,7 +2350,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3221857685/256x128",
     "price": 933.71,
     "item": "Talon Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2147,7 +2361,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040876/256x128",
     "price": 647.11,
     "item": "Sport Gloves",
-    "skinName": "Omega"
+    "skinName": "Omega",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2157,7 +2372,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3608248381/256x128",
     "price": 126.79,
     "item": "Nomad Knife",
-    "skinName": "Vanilla"
+    "skinName": "Vanilla",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2167,7 +2383,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039193/256x128",
     "price": 83.32,
     "item": "Moto Gloves",
-    "skinName": "Turtle"
+    "skinName": "Turtle",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2177,7 +2394,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042081/256x128",
     "price": 366.54,
     "item": "Skeleton Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2187,7 +2405,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/937290898/256x128",
     "price": 92.69,
     "item": "MAC-10",
-    "skinName": "Neon Rider"
+    "skinName": "Neon Rider",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -2197,7 +2416,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2737835643/256x128",
     "price": 633.9,
     "item": "Specialist Gloves",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2207,7 +2427,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578727577/256x128",
     "price": 828.63,
     "item": "Desert Eagle",
-    "skinName": "Fennec Fox"
+    "skinName": "Fennec Fox",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -2217,7 +2438,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036231/256x128",
     "price": 65.55,
     "item": "Broken Fang Gloves",
-    "skinName": "Unhinged"
+    "skinName": "Unhinged",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2227,7 +2449,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036985/256x128",
     "price": 843.38,
     "item": "M4A4",
-    "skinName": "Eye of Horus"
+    "skinName": "Eye of Horus",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2237,7 +2460,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040712/256x128",
     "price": 482.74,
     "item": "Talon Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2247,7 +2471,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3213411179/256x128",
     "price": 1,
     "item": "Container",
-    "skinName": "Prisma Case"
+    "skinName": "Prisma Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -2257,7 +2482,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3221731162/256x128",
     "price": 655.57,
     "item": "Talon Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2267,7 +2493,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578782220/256x128",
     "price": 681.28,
     "item": "Butterfly Knife",
-    "skinName": "Black Laminate"
+    "skinName": "Black Laminate",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2277,7 +2504,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042468/256x128",
     "price": 78.73,
     "item": "MP7",
-    "skinName": "Bloodsport"
+    "skinName": "Bloodsport",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -2287,7 +2515,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/380158386/256x128",
     "price": 66658.85,
     "item": "Sticker",
-    "skinName": "iBUYPOWER (Holo) | Katowice 2014"
+    "skinName": "iBUYPOWER (Holo) | Katowice 2014",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -2297,7 +2526,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5199669897/256x128",
     "price": 51.51,
     "item": "M4A4",
-    "skinName": "Temukau"
+    "skinName": "Temukau",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2307,7 +2537,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2221549554/256x128",
     "price": 2500.67,
     "item": "Butterfly Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2317,7 +2548,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918227415/256x128",
     "price": 2598.49,
     "item": "Skeleton Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2327,7 +2559,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038129/256x128",
     "price": 175.13,
     "item": "Flip Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2337,7 +2570,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/310780956/256x128",
     "price": 388.5,
     "item": "Desert Eagle",
-    "skinName": "Golden Koi"
+    "skinName": "Golden Koi",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -2347,7 +2581,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2316447719/256x128",
     "price": 285,
     "item": "Five-SeveN",
-    "skinName": "Hyper Beast"
+    "skinName": "Hyper Beast",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -2357,7 +2592,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043081/256x128",
     "price": 1004.94,
     "item": "Butterfly Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2367,7 +2603,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/992233855/256x128",
     "price": 969.4,
     "item": "M4A4",
-    "skinName": "Daybreak"
+    "skinName": "Daybreak",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2377,7 +2614,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036833/256x128",
     "price": 100.28,
     "item": "M4A1-S",
-    "skinName": "Vaporwave"
+    "skinName": "Vaporwave",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2387,7 +2625,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042486/256x128",
     "price": 1083.03,
     "item": "Sport Gloves",
-    "skinName": "Nocts"
+    "skinName": "Nocts",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2397,7 +2636,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918561064/256x128",
     "price": 847.99,
     "item": "Skeleton Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2407,7 +2647,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040251/256x128",
     "price": 601.89,
     "item": "Butterfly Knife",
-    "skinName": "Bright Water"
+    "skinName": "Bright Water",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2417,7 +2658,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043528/256x128",
     "price": 160.91,
     "item": "Driver Gloves",
-    "skinName": "Imperial Plaid"
+    "skinName": "Imperial Plaid",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2427,7 +2669,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043606/256x128",
     "price": 246.55,
     "item": "Sport Gloves",
-    "skinName": "Slingshot"
+    "skinName": "Slingshot",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2437,7 +2680,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6217912247/256x128",
     "price": 260.26,
     "item": "M4A1-S",
-    "skinName": "Vaporwave"
+    "skinName": "Vaporwave",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2447,7 +2691,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3113384982/256x128",
     "price": 33.31,
     "item": "AK-47",
-    "skinName": "Asiimov"
+    "skinName": "Asiimov",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2457,7 +2702,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036273/256x128",
     "price": 931.41,
     "item": "AK-47",
-    "skinName": "B the Monster"
+    "skinName": "B the Monster",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2467,7 +2713,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041669/256x128",
     "price": 239.65,
     "item": "AK-47",
-    "skinName": "Fuel Injector"
+    "skinName": "Fuel Injector",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2477,7 +2724,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2316444154/256x128",
     "price": 338.65,
     "item": "M4A4",
-    "skinName": "Hellfire"
+    "skinName": "Hellfire",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2487,7 +2735,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2316517067/256x128",
     "price": 973.81,
     "item": "AWP",
-    "skinName": "Oni Taiji"
+    "skinName": "Oni Taiji",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -2497,7 +2746,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037118/256x128",
     "price": 364.74,
     "item": "Specialist Gloves",
-    "skinName": "Crimson Web"
+    "skinName": "Crimson Web",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2507,7 +2757,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5312943254/256x128",
     "price": 1659.11,
     "item": "M4A4",
-    "skinName": "Eye of Horus"
+    "skinName": "Eye of Horus",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2517,7 +2768,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/384801319/256x128",
     "price": 460.56,
     "item": "Container",
-    "skinName": "Operation Phoenix Weapon Case"
+    "skinName": "Operation Phoenix Weapon Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -2527,7 +2779,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035617/256x128",
     "price": 61.76,
     "item": "Driver Gloves",
-    "skinName": "Queen Jaguar"
+    "skinName": "Queen Jaguar",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2537,7 +2790,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993044395/256x128",
     "price": 276.51,
     "item": "Driver Gloves",
-    "skinName": "Snow Leopard"
+    "skinName": "Snow Leopard",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2547,7 +2801,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/241608185/256x128",
     "price": 276.51,
     "item": "MP9",
-    "skinName": "Hot Rod"
+    "skinName": "Hot Rod",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -2557,7 +2812,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040170/256x128",
     "price": 108.95,
     "item": "Paracord Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2567,7 +2823,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520463978/256x128",
     "price": 599.12,
     "item": "Butterfly Knife",
-    "skinName": "Case Hardened"
+    "skinName": "Case Hardened",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2577,7 +2834,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3761545285/256x128",
     "price": 460.82,
     "item": "Container",
-    "skinName": "Prisma 2 Case"
+    "skinName": "Prisma 2 Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -2587,7 +2845,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/310780982/256x128",
     "price": 781.46,
     "item": "AK-47",
-    "skinName": "Case Hardened"
+    "skinName": "Case Hardened",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2597,7 +2856,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/188530330/256x128",
     "price": 186.19,
     "item": "AK-47",
-    "skinName": "Case Hardened"
+    "skinName": "Case Hardened",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2607,7 +2867,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3113472303/256x128",
     "price": 45.29,
     "item": "AK-47",
-    "skinName": "Asiimov"
+    "skinName": "Asiimov",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2617,7 +2878,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042186/256x128",
     "price": 202.16,
     "item": "Bayonet",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2627,7 +2889,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040721/256x128",
     "price": 734.62,
     "item": "Butterfly Knife",
-    "skinName": "Blue Steel"
+    "skinName": "Blue Steel",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2637,7 +2900,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4901046679/256x128",
     "price": 0.21,
     "item": "Container",
-    "skinName": "Recoil Case"
+    "skinName": "Recoil Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -2647,7 +2911,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/994358332/256x128",
     "price": 4467.11,
     "item": "AK-47",
-    "skinName": "Hydroponic"
+    "skinName": "Hydroponic",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2657,7 +2922,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3574257049/256x128",
     "price": 65.2,
     "item": "AWP",
-    "skinName": "Wildfire"
+    "skinName": "Wildfire",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -2667,7 +2933,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3608099907/256x128",
     "price": 290.22,
     "item": "Nomad Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2677,7 +2944,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/316351920/256x128",
     "price": 765.83,
     "item": "M9 Bayonet",
-    "skinName": "Vanilla"
+    "skinName": "Vanilla",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2687,7 +2955,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040751/256x128",
     "price": 138.05,
     "item": "Kukri Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2697,7 +2966,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1816313298/256x128",
     "price": 479.59,
     "item": "M9 Bayonet",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2707,7 +2977,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918487942/256x128",
     "price": 107.1,
     "item": "Survival Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2717,7 +2988,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5721066978/256x128",
     "price": 101.99,
     "item": "Kukri Knife",
-    "skinName": "Vanilla"
+    "skinName": "Vanilla",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2727,7 +2999,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040015/256x128",
     "price": 128.12,
     "item": "Ursus Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2737,7 +3010,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042405/256x128",
     "price": 1951.14,
     "item": "Stiletto Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2747,7 +3021,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040780/256x128",
     "price": 110.61,
     "item": "Specialist Gloves",
-    "skinName": "Lt. Commander"
+    "skinName": "Lt. Commander",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2757,7 +3032,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1812832980/256x128",
     "price": 85.54,
     "item": "M4A1-S",
-    "skinName": "Mecha Industries"
+    "skinName": "Mecha Industries",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2767,7 +3043,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993046554/256x128",
     "price": 1490.56,
     "item": "Souvenir AK-47",
-    "skinName": "Gold Arabesque"
+    "skinName": "Gold Arabesque",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -2777,7 +3054,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042191/256x128",
     "price": 479.88,
     "item": "Sport Gloves",
-    "skinName": "Vice"
+    "skinName": "Vice",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2787,7 +3065,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041146/256x128",
     "price": 92.53,
     "item": "MAC-10",
-    "skinName": "Neon Rider"
+    "skinName": "Neon Rider",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -2797,7 +3076,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520049712/256x128",
     "price": 513.15,
     "item": "Butterfly Knife",
-    "skinName": "Stained"
+    "skinName": "Stained",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2807,7 +3087,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077674958/256x128",
     "price": 2488.67,
     "item": "Specialist Gloves",
-    "skinName": "Crimson Kimono"
+    "skinName": "Crimson Kimono",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2817,7 +3098,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040922/256x128",
     "price": 179.74,
     "item": "Skeleton Knife",
-    "skinName": "Ultraviolet"
+    "skinName": "Ultraviolet",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2827,7 +3109,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039257/256x128",
     "price": 213.96,
     "item": "Moto Gloves",
-    "skinName": "Polygon"
+    "skinName": "Polygon",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2837,7 +3120,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/310777843/256x128",
     "price": 165.81,
     "item": "AWP",
-    "skinName": "Graphite"
+    "skinName": "Graphite",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -2847,7 +3131,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043200/256x128",
     "price": 128.12,
     "item": "Falchion Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2857,7 +3142,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3608084353/256x128",
     "price": 112.55,
     "item": "AWP",
-    "skinName": "Containment Breach"
+    "skinName": "Containment Breach",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -2867,7 +3153,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578787864/256x128",
     "price": 616.13,
     "item": "Huntsman Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2877,7 +3164,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077239730/256x128",
     "price": 1659.11,
     "item": "Specialist Gloves",
-    "skinName": "Foundation"
+    "skinName": "Foundation",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2887,7 +3175,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039591/256x128",
     "price": 161.81,
     "item": "Ursus Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2897,7 +3186,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1432174707/256x128",
     "price": 460.55,
     "item": "Container",
-    "skinName": "Revolver Case"
+    "skinName": "Revolver Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -2907,7 +3197,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/506853367/256x128",
     "price": 5668.64,
     "item": "M4A4",
-    "skinName": "Howl"
+    "skinName": "Howl",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2917,7 +3208,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724540/256x128",
     "price": 388.35,
     "item": "AK-47",
-    "skinName": "Leet Museo"
+    "skinName": "Leet Museo",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2927,7 +3219,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993045090/256x128",
     "price": 529.83,
     "item": "Sport Gloves",
-    "skinName": "Nocts"
+    "skinName": "Nocts",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2937,7 +3230,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038830/256x128",
     "price": 504.67,
     "item": "Butterfly Knife",
-    "skinName": "Ultraviolet"
+    "skinName": "Ultraviolet",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -2947,7 +3241,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3955310082/256x128",
     "price": 28.57,
     "item": "AK-47",
-    "skinName": "Legion of Anubis"
+    "skinName": "Legion of Anubis",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -2957,7 +3252,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993044084/256x128",
     "price": 1184.42,
     "item": "Sport Gloves",
-    "skinName": "Slingshot"
+    "skinName": "Slingshot",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2967,7 +3263,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040558/256x128",
     "price": 2359.63,
     "item": "Sport Gloves",
-    "skinName": "Hedge Maze"
+    "skinName": "Hedge Maze",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -2977,7 +3274,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039745/256x128",
     "price": 75.63,
     "item": "P250",
-    "skinName": "See Ya Later"
+    "skinName": "See Ya Later",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -2987,7 +3285,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3608084263/256x128",
     "price": 29.38,
     "item": "NSWC SEAL",
-    "skinName": "Lt. Commander Ricksaw"
+    "skinName": "Lt. Commander Ricksaw",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -2997,7 +3296,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040702/256x128",
     "price": 141.48,
     "item": "Survival Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3007,7 +3307,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041036/256x128",
     "price": 153.1,
     "item": "Sport Gloves",
-    "skinName": "Omega"
+    "skinName": "Omega",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3017,7 +3318,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039079/256x128",
     "price": 92.52,
     "item": "M4A1-S",
-    "skinName": "Mecha Industries"
+    "skinName": "Mecha Industries",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3027,7 +3329,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5199667759/256x128",
     "price": 28.57,
     "item": "M4A4",
-    "skinName": "Temukau"
+    "skinName": "Temukau",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3037,7 +3340,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2735596503/256x128",
     "price": 42.73,
     "item": "MP7",
-    "skinName": "Bloodsport"
+    "skinName": "Bloodsport",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -3047,7 +3351,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1703417002/256x128",
     "price": 92.17,
     "item": "M4A1-S",
-    "skinName": "Chantico's Fire"
+    "skinName": "Chantico's Fire",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3057,7 +3362,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036486/256x128",
     "price": 40.46,
     "item": "AK-47",
-    "skinName": "Neon Rider"
+    "skinName": "Neon Rider",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3067,7 +3373,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043136/256x128",
     "price": 2008.35,
     "item": "M4A4",
-    "skinName": "The Coalition"
+    "skinName": "The Coalition",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3077,7 +3384,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038723/256x128",
     "price": 138.43,
     "item": "AK-47",
-    "skinName": "Inheritance"
+    "skinName": "Inheritance",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3087,7 +3395,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041299/256x128",
     "price": 58.4,
     "item": "M4A1-S",
-    "skinName": "Golden Coil"
+    "skinName": "Golden Coil",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3097,7 +3406,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037094/256x128",
     "price": 413.85,
     "item": "Karambit",
-    "skinName": "Rust Coat"
+    "skinName": "Rust Coat",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3107,7 +3417,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038717/256x128",
     "price": 559.39,
     "item": "Talon Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3117,7 +3428,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2735912487/256x128",
     "price": 616.98,
     "item": "Driver Gloves",
-    "skinName": "King Snake"
+    "skinName": "King Snake",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3127,7 +3439,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040677/256x128",
     "price": 129.76,
     "item": "Hand Wraps",
-    "skinName": "CAUTION!"
+    "skinName": "CAUTION!",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3137,7 +3450,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1815286281/256x128",
     "price": 1797.37,
     "item": "M9 Bayonet",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3147,7 +3461,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039127/256x128",
     "price": 377.9,
     "item": "Butterfly Knife",
-    "skinName": "Safari Mesh"
+    "skinName": "Safari Mesh",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3157,7 +3472,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1815196682/256x128",
     "price": 2031.93,
     "item": "Karambit",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3167,7 +3483,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038315/256x128",
     "price": 511.56,
     "item": "Butterfly Knife",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3177,7 +3494,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1934611432/256x128",
     "price": 87.01,
     "item": "AK-47",
-    "skinName": "Neon Revolution"
+    "skinName": "Neon Revolution",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3187,7 +3505,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038461/256x128",
     "price": 228.32,
     "item": "Flip Knife",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3197,7 +3516,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038712/256x128",
     "price": 737.38,
     "item": "Talon Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3207,7 +3527,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041226/256x128",
     "price": 380.96,
     "item": "Skeleton Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3217,7 +3538,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037534/256x128",
     "price": 81.61,
     "item": "Broken Fang Gloves",
-    "skinName": "Jade"
+    "skinName": "Jade",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3227,7 +3549,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1812847923/256x128",
     "price": 617.56,
     "item": "Karambit",
-    "skinName": "Black Laminate"
+    "skinName": "Black Laminate",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3237,7 +3560,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039146/256x128",
     "price": 323.34,
     "item": "Sport Gloves",
-    "skinName": "Amphibious"
+    "skinName": "Amphibious",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3247,7 +3571,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724332/256x128",
     "price": 351.66,
     "item": "M4A4",
-    "skinName": "The Coalition"
+    "skinName": "The Coalition",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3257,7 +3582,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041806/256x128",
     "price": 639.23,
     "item": "Skeleton Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3267,7 +3593,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036633/256x128",
     "price": 82.96,
     "item": "AK-47",
-    "skinName": "The Empress"
+    "skinName": "The Empress",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3277,7 +3604,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037924/256x128",
     "price": 2905.77,
     "item": "Karambit",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3287,7 +3615,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2220417270/256x128",
     "price": 72.81,
     "item": "USP-S",
-    "skinName": "Neo-Noir"
+    "skinName": "Neo-Noir",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -3297,7 +3626,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578747897/256x128",
     "price": 195.31,
     "item": "Huntsman Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3307,7 +3637,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7488693039/256x128",
     "price": 166.86,
     "item": "AK-47",
-    "skinName": "The Oligarch"
+    "skinName": "The Oligarch",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3317,7 +3648,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993045225/256x128",
     "price": 383.24,
     "item": "Butterfly Knife",
-    "skinName": "Forest DDPAT"
+    "skinName": "Forest DDPAT",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3327,7 +3659,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042033/256x128",
     "price": 125.28,
     "item": "Bowie Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3337,7 +3670,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141779344/256x128",
     "price": 39.17,
     "item": "The Professionals",
-    "skinName": "Sir Bloody Silent Darryl"
+    "skinName": "Sir Bloody Silent Darryl",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -3347,7 +3681,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4142242077/256x128",
     "price": 176.02,
     "item": "Sport Gloves",
-    "skinName": "Scarlet Shamagh"
+    "skinName": "Scarlet Shamagh",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3357,7 +3692,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043547/256x128",
     "price": 614.48,
     "item": "Skeleton Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3367,7 +3703,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3608149371/256x128",
     "price": 153.16,
     "item": "Paracord Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3377,7 +3714,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039097/256x128",
     "price": 750.58,
     "item": "AK-47",
-    "skinName": "Leet Museo"
+    "skinName": "Leet Museo",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3387,7 +3725,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2735429295/256x128",
     "price": 66.2,
     "item": "Hydra Gloves",
-    "skinName": "Case Hardened"
+    "skinName": "Case Hardened",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3397,7 +3736,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037734/256x128",
     "price": 1138.15,
     "item": "Nomad Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3407,7 +3747,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3035582416/256x128",
     "price": 15.93,
     "item": "MP7",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -3417,7 +3758,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037502/256x128",
     "price": 222.04,
     "item": "Moto Gloves",
-    "skinName": "Blood Pressure"
+    "skinName": "Blood Pressure",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3427,7 +3769,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1012020677/256x128",
     "price": 244.26,
     "item": "AK-47",
-    "skinName": "Aquamarine Revenge"
+    "skinName": "Aquamarine Revenge",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3437,7 +3780,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036154/256x128",
     "price": 35.4,
     "item": "Driver Gloves",
-    "skinName": "Racing Green"
+    "skinName": "Racing Green",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3447,7 +3791,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035490/256x128",
     "price": 44.23,
     "item": "M4A4",
-    "skinName": "The Emperor"
+    "skinName": "The Emperor",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3457,7 +3802,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918253982/256x128",
     "price": 327.07,
     "item": "AWP",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -3467,7 +3813,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3946324730/256x128",
     "price": 0.39,
     "item": "Container",
-    "skinName": "Fracture Case"
+    "skinName": "Fracture Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -3477,7 +3824,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/720633176/256x128",
     "price": 4102.65,
     "item": "Karambit",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3487,7 +3835,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035686/256x128",
     "price": 388.24,
     "item": "Butterfly Knife",
-    "skinName": "Scorched"
+    "skinName": "Scorched",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3497,7 +3846,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037658/256x128",
     "price": 55.2,
     "item": "USP-S",
-    "skinName": "The Traitor"
+    "skinName": "The Traitor",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -3507,7 +3857,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040657/256x128",
     "price": 625.17,
     "item": "Stiletto Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3517,7 +3868,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038213/256x128",
     "price": 31.34,
     "item": "AK-47",
-    "skinName": "Legion of Anubis"
+    "skinName": "Legion of Anubis",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3527,7 +3879,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042059/256x128",
     "price": 632.5,
     "item": "M9 Bayonet",
-    "skinName": "Autotronic"
+    "skinName": "Autotronic",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3537,7 +3890,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1814948596/256x128",
     "price": 105.57,
     "item": "Glock-18",
-    "skinName": "Wasteland Rebel"
+    "skinName": "Wasteland Rebel",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -3547,7 +3901,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037810/256x128",
     "price": 38.37,
     "item": "AWP",
-    "skinName": "Chromatic Aberration"
+    "skinName": "Chromatic Aberration",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -3557,7 +3912,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/720268538/256x128",
     "price": 212.45,
     "item": "Container",
-    "skinName": "Chroma Case"
+    "skinName": "Chroma Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -3567,7 +3923,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3221741188/256x128",
     "price": 1626.69,
     "item": "Talon Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3577,7 +3934,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037866/256x128",
     "price": 843.74,
     "item": "M4A4",
-    "skinName": "The Coalition"
+    "skinName": "The Coalition",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3587,7 +3945,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041576/256x128",
     "price": 708.01,
     "item": "Butterfly Knife",
-    "skinName": "Autotronic"
+    "skinName": "Autotronic",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3597,7 +3956,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1934425373/256x128",
     "price": 85.69,
     "item": "FAMAS",
-    "skinName": "Roll Cage"
+    "skinName": "Roll Cage",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3607,7 +3967,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039827/256x128",
     "price": 474.6,
     "item": "Sport Gloves",
-    "skinName": "Scarlet Shamagh"
+    "skinName": "Scarlet Shamagh",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3617,7 +3978,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041977/256x128",
     "price": 85.25,
     "item": "MP9",
-    "skinName": "Hydra"
+    "skinName": "Hydra",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -3627,7 +3989,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036849/256x128",
     "price": 387.13,
     "item": "Butterfly Knife",
-    "skinName": "Boreal Forest"
+    "skinName": "Boreal Forest",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3637,7 +4000,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/575561834/256x128",
     "price": 82.95,
     "item": "MP9",
-    "skinName": "Setting Sun"
+    "skinName": "Setting Sun",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -3647,7 +4011,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141791137/256x128",
     "price": 344.88,
     "item": "Driver Gloves",
-    "skinName": "Snow Leopard"
+    "skinName": "Snow Leopard",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3657,7 +4022,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2962320834/256x128",
     "price": 73.74,
     "item": "AK-47",
-    "skinName": "Neon Rider"
+    "skinName": "Neon Rider",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3667,7 +4033,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/311021767/256x128",
     "price": 1074.5,
     "item": "Karambit",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3677,7 +4044,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042210/256x128",
     "price": 243.04,
     "item": "M4A4",
-    "skinName": "Buzz Kill"
+    "skinName": "Buzz Kill",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3687,7 +4055,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039474/256x128",
     "price": 273.21,
     "item": "M4A1-S",
-    "skinName": "Nightmare"
+    "skinName": "Nightmare",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3697,7 +4066,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4114525951/256x128",
     "price": 129.05,
     "item": "Container",
-    "skinName": "Operation Broken Fang Case"
+    "skinName": "Operation Broken Fang Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -3707,7 +4077,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038693/256x128",
     "price": 831.67,
     "item": "Karambit",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3717,7 +4088,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993044566/256x128",
     "price": 403.92,
     "item": "Stiletto Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3727,7 +4099,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037198/256x128",
     "price": 41.48,
     "item": "AWP",
-    "skinName": "Wildfire"
+    "skinName": "Wildfire",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -3737,7 +4110,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141783883/256x128",
     "price": 306.94,
     "item": "Driver Gloves",
-    "skinName": "Snow Leopard"
+    "skinName": "Snow Leopard",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3747,7 +4121,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036736/256x128",
     "price": 293.09,
     "item": "Skeleton Knife",
-    "skinName": "Crimson Web"
+    "skinName": "Crimson Web",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3757,7 +4132,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578749737/256x128",
     "price": 232.03,
     "item": "Huntsman Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3767,7 +4143,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042342/256x128",
     "price": 589.91,
     "item": "Butterfly Knife",
-    "skinName": "Black Laminate"
+    "skinName": "Black Laminate",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3777,7 +4154,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2078365333/256x128",
     "price": 626.78,
     "item": "Hand Wraps",
-    "skinName": "Badlands"
+    "skinName": "Badlands",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -3787,7 +4165,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918224034/256x128",
     "price": 43.05,
     "item": "FAMAS",
-    "skinName": "Bad Trip"
+    "skinName": "Bad Trip",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3797,7 +4176,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1815181846/256x128",
     "price": 771.98,
     "item": "Karambit",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3807,7 +4187,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/991959905/256x128",
     "price": 438.31,
     "item": "Container",
-    "skinName": "Falchion Case"
+    "skinName": "Falchion Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -3817,7 +4198,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037109/256x128",
     "price": 76.58,
     "item": "AK-47",
-    "skinName": "The Oligarch"
+    "skinName": "The Oligarch",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3827,7 +4209,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3600645128/256x128",
     "price": 223.72,
     "item": "Container",
-    "skinName": "Shattered Web Case"
+    "skinName": "Shattered Web Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -3837,7 +4220,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993044091/256x128",
     "price": 283.89,
     "item": "StatTrak™ M4A1-S",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -3847,7 +4231,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037888/256x128",
     "price": 901.72,
     "item": "Butterfly Knife",
-    "skinName": "Blue Steel"
+    "skinName": "Blue Steel",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3857,7 +4242,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578726804/256x128",
     "price": 78.35,
     "item": "NZSAS",
-    "skinName": "D Squadron Officer"
+    "skinName": "D Squadron Officer",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -3867,7 +4253,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039091/256x128",
     "price": 172.36,
     "item": "AK-47",
-    "skinName": "Fuel Injector"
+    "skinName": "Fuel Injector",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3877,7 +4264,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039594/256x128",
     "price": 248.52,
     "item": "Classic Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3887,7 +4275,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039279/256x128",
     "price": 403.31,
     "item": "Karambit",
-    "skinName": "Ultraviolet"
+    "skinName": "Ultraviolet",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3897,7 +4286,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1310091948/256x128",
     "price": 98,
     "item": "M4A1-S",
-    "skinName": "Golden Coil"
+    "skinName": "Golden Coil",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3907,7 +4297,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040336/256x128",
     "price": 540.62,
     "item": "Butterfly Knife",
-    "skinName": "Black Laminate"
+    "skinName": "Black Laminate",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3917,7 +4308,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037709/256x128",
     "price": 60.51,
     "item": "USP-S",
-    "skinName": "Kill Confirmed"
+    "skinName": "Kill Confirmed",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -3927,7 +4319,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/259328171/256x128",
     "price": 218.27,
     "item": "M4A4",
-    "skinName": "Asiimov"
+    "skinName": "Asiimov",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3937,7 +4330,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/720357195/256x128",
     "price": 89.31,
     "item": "Galil AR",
-    "skinName": "Chatterbox"
+    "skinName": "Chatterbox",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3947,7 +4341,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036771/256x128",
     "price": 208.82,
     "item": "Nomad Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3957,7 +4352,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/992131749/256x128",
     "price": 61.7,
     "item": "MAC-10",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "SMGs"
   },
   {
     "_id": {
@@ -3967,7 +4363,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040183/256x128",
     "price": 599.12,
     "item": "Skeleton Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -3977,7 +4374,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/992131468/256x128",
     "price": 2119.98,
     "item": "AWP",
-    "skinName": "Medusa"
+    "skinName": "Medusa",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -3987,7 +4385,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578725441/256x128",
     "price": 1601.5,
     "item": "AK-47",
-    "skinName": "Gold Arabesque"
+    "skinName": "Gold Arabesque",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -3997,7 +4396,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043750/256x128",
     "price": 343.9,
     "item": "Bayonet",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4007,7 +4407,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578754334/256x128",
     "price": 90.19,
     "item": "Huntsman Knife",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4017,7 +4418,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041376/256x128",
     "price": 54.62,
     "item": "AK-47",
-    "skinName": "Nightwish"
+    "skinName": "Nightwish",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4027,7 +4429,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141833129/256x128",
     "price": 823.02,
     "item": "AWP",
-    "skinName": "Silk Tiger"
+    "skinName": "Silk Tiger",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4037,7 +4440,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035787/256x128",
     "price": 390.23,
     "item": "Driver Gloves",
-    "skinName": "Black Tie"
+    "skinName": "Black Tie",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4047,7 +4451,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036454/256x128",
     "price": 121.95,
     "item": "Driver Gloves",
-    "skinName": "King Snake"
+    "skinName": "King Snake",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4057,7 +4462,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/720715223/256x128",
     "price": 396.34,
     "item": "Flip Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4067,7 +4473,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141779349/256x128",
     "price": 47.67,
     "item": "The Professionals",
-    "skinName": "Sir Bloody Darryl Royale"
+    "skinName": "Sir Bloody Darryl Royale",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4077,7 +4484,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039958/256x128",
     "price": 56.77,
     "item": "Broken Fang Gloves",
-    "skinName": "Needle Point"
+    "skinName": "Needle Point",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4087,7 +4495,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1815246926/256x128",
     "price": 258.08,
     "item": "Bayonet",
-    "skinName": "Autotronic"
+    "skinName": "Autotronic",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4097,7 +4506,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040710/256x128",
     "price": 421.58,
     "item": "M4A1-S",
-    "skinName": "Hyper Beast"
+    "skinName": "Hyper Beast",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4107,7 +4517,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/723796583/256x128",
     "price": 276.84,
     "item": "Flip Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4117,7 +4528,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043944/256x128",
     "price": 1102.29,
     "item": "★ StatTrak™ Butterfly Knife",
-    "skinName": "Tiger Tooth"
+    "skinName": "Tiger Tooth",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4127,7 +4539,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036195/256x128",
     "price": 97.04,
     "item": "Moto Gloves",
-    "skinName": "POW!"
+    "skinName": "POW!",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4137,7 +4550,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578749077/256x128",
     "price": 627.35,
     "item": "USP-S",
-    "skinName": "Whiteout"
+    "skinName": "Whiteout",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4147,7 +4561,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037907/256x128",
     "price": 266.17,
     "item": "Flip Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4157,7 +4572,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520355672/256x128",
     "price": 875.64,
     "item": "Butterfly Knife",
-    "skinName": "Case Hardened"
+    "skinName": "Case Hardened",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4167,7 +4583,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/310776497/256x128",
     "price": 111.6,
     "item": "AWP",
-    "skinName": "BOOM"
+    "skinName": "BOOM",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4177,7 +4594,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/311194743/256x128",
     "price": 269.68,
     "item": "Flip Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4187,7 +4605,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5721067966/256x128",
     "price": 88.76,
     "item": "Kukri Knife",
-    "skinName": "Crimson Web"
+    "skinName": "Crimson Web",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4197,7 +4616,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039756/256x128",
     "price": 430.81,
     "item": "Hand Wraps",
-    "skinName": "Cobalt Skulls"
+    "skinName": "Cobalt Skulls",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4207,7 +4627,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1544067968/256x128",
     "price": 259.65,
     "item": "Container",
-    "skinName": "Operation Wildfire Case"
+    "skinName": "Operation Wildfire Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -4217,7 +4638,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993045434/256x128",
     "price": 189.87,
     "item": "Bowie Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4227,7 +4649,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043985/256x128",
     "price": 142.87,
     "item": "Gut Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4237,7 +4660,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993047100/256x128",
     "price": 684.96,
     "item": "Butterfly Knife",
-    "skinName": "Damascus Steel"
+    "skinName": "Damascus Steel",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4247,7 +4671,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4418618853/256x128",
     "price": 0.43,
     "item": "Container",
-    "skinName": "Snakebite Case"
+    "skinName": "Snakebite Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -4257,7 +4682,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993045100/256x128",
     "price": 221.22,
     "item": "Falchion Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4267,7 +4693,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037001/256x128",
     "price": 54.19,
     "item": "Broken Fang Gloves",
-    "skinName": "Yellow-banded"
+    "skinName": "Yellow-banded",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4277,7 +4704,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043651/256x128",
     "price": 304.17,
     "item": "AWP",
-    "skinName": "Oni Taiji"
+    "skinName": "Oni Taiji",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4287,7 +4715,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036593/256x128",
     "price": 103.36,
     "item": "USP-S",
-    "skinName": "Kill Confirmed"
+    "skinName": "Kill Confirmed",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4297,7 +4726,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036963/256x128",
     "price": 156.69,
     "item": "Glock-18",
-    "skinName": "AXIA"
+    "skinName": "AXIA",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4307,7 +4737,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724751/256x128",
     "price": 4582.84,
     "item": "AK-47",
-    "skinName": "Gold Arabesque"
+    "skinName": "Gold Arabesque",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4317,7 +4748,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/721396034/256x128",
     "price": 295.13,
     "item": "Flip Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4327,7 +4759,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077686449/256x128",
     "price": 2580.83,
     "item": "Sport Gloves",
-    "skinName": "Arid"
+    "skinName": "Arid",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4337,7 +4770,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141784713/256x128",
     "price": 522.01,
     "item": "M4A1-S",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4347,7 +4781,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3608084360/256x128",
     "price": 21.21,
     "item": "FBI",
-    "skinName": "Special Agent Ava"
+    "skinName": "Special Agent Ava",
+    "weapon_group": "Characters"
   },
   {
     "_id": {
@@ -4357,7 +4792,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3608084461/256x128",
     "price": 8752.33,
     "item": "AWP",
-    "skinName": "Gungnir"
+    "skinName": "Gungnir",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4367,7 +4803,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1817948665/256x128",
     "price": 553.04,
     "item": "Bayonet",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4377,7 +4814,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3574241663/256x128",
     "price": 175.13,
     "item": "AWP",
-    "skinName": "Wildfire"
+    "skinName": "Wildfire",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4387,7 +4825,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039357/256x128",
     "price": 196.32,
     "item": "Driver Gloves",
-    "skinName": "Imperial Plaid"
+    "skinName": "Imperial Plaid",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4397,7 +4836,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039144/256x128",
     "price": 74.2,
     "item": "USP-S",
-    "skinName": "Neo-Noir"
+    "skinName": "Neo-Noir",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4407,7 +4847,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042836/256x128",
     "price": 668.25,
     "item": "Paracord Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4417,7 +4858,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037010/256x128",
     "price": 77.85,
     "item": "AWP",
-    "skinName": "Crakow!"
+    "skinName": "Crakow!",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4427,7 +4869,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141779351/256x128",
     "price": 41.48,
     "item": "The Professionals",
-    "skinName": "Sir Bloody Skullhead Darryl"
+    "skinName": "Sir Bloody Skullhead Darryl",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4437,7 +4880,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724181/256x128",
     "price": 364.08,
     "item": "Glock-18",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4447,7 +4891,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077766083/256x128",
     "price": 617.35,
     "item": "Moto Gloves",
-    "skinName": "Boom!"
+    "skinName": "Boom!",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4457,7 +4902,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/310963257/256x128",
     "price": 2412.82,
     "item": "AK-47",
-    "skinName": "Fire Serpent"
+    "skinName": "Fire Serpent",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4467,7 +4913,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/725612232/256x128",
     "price": 1889.35,
     "item": "★ StatTrak™ Karambit",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4477,7 +4924,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040380/256x128",
     "price": 210,
     "item": "Huntsman Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4487,7 +4935,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/723833533/256x128",
     "price": 7135.01,
     "item": "Karambit",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4497,7 +4946,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1813188172/256x128",
     "price": 84.62,
     "item": "Glock-18",
-    "skinName": "Wasteland Rebel"
+    "skinName": "Wasteland Rebel",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4507,7 +4957,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2962499424/256x128",
     "price": 276.52,
     "item": "AK-47",
-    "skinName": "Neon Rider"
+    "skinName": "Neon Rider",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4517,7 +4968,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993047567/256x128",
     "price": 1227.1,
     "item": "M9 Bayonet",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4527,7 +4979,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993045506/256x128",
     "price": 442.43,
     "item": "Survival Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4537,7 +4990,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043075/256x128",
     "price": 625.17,
     "item": "Karambit",
-    "skinName": "Blue Steel"
+    "skinName": "Blue Steel",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4547,7 +5001,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042399/256x128",
     "price": 125.42,
     "item": "Skeleton Knife",
-    "skinName": "Rust Coat"
+    "skinName": "Rust Coat",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4557,7 +5012,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3114548479/256x128",
     "price": 516.17,
     "item": "AK-47",
-    "skinName": "Asiimov"
+    "skinName": "Asiimov",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4567,7 +5023,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036275/256x128",
     "price": 65.43,
     "item": "AK-47",
-    "skinName": "Aquamarine Revenge"
+    "skinName": "Aquamarine Revenge",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4577,7 +5034,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/520222246/256x128",
     "price": 2119.98,
     "item": "★ StatTrak™ Butterfly Knife",
-    "skinName": "Fade"
+    "skinName": "Fade",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4587,7 +5045,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3221029220/256x128",
     "price": 44.23,
     "item": "Five-SeveN",
-    "skinName": "Angry Mob"
+    "skinName": "Angry Mob",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4597,7 +5056,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077676792/256x128",
     "price": 2853.43,
     "item": "Driver Gloves",
-    "skinName": "Crimson Weave"
+    "skinName": "Crimson Weave",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4607,7 +5067,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4910475515/256x128",
     "price": 27.25,
     "item": "AWP",
-    "skinName": "Chromatic Aberration"
+    "skinName": "Chromatic Aberration",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4617,7 +5078,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/725031854/256x128",
     "price": 1673.29,
     "item": "Bayonet",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4627,7 +5089,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039022/256x128",
     "price": 36.6,
     "item": "AWP",
-    "skinName": "Neo-Noir"
+    "skinName": "Neo-Noir",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4637,7 +5100,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918292368/256x128",
     "price": 1682.11,
     "item": "Skeleton Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4647,7 +5111,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/312713307/256x128",
     "price": 589.91,
     "item": "Karambit",
-    "skinName": "Crimson Web"
+    "skinName": "Crimson Web",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4657,7 +5122,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037262/256x128",
     "price": 187.11,
     "item": "Skeleton Knife",
-    "skinName": "Damascus Steel"
+    "skinName": "Damascus Steel",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4667,7 +5133,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035947/256x128",
     "price": 61.52,
     "item": "M4A4",
-    "skinName": "The Emperor"
+    "skinName": "The Emperor",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4677,7 +5144,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918339911/256x128",
     "price": 15.13,
     "item": "AK-47",
-    "skinName": "Midnight Laminate"
+    "skinName": "Midnight Laminate",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4687,7 +5155,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036796/256x128",
     "price": 105.2,
     "item": "M4A4",
-    "skinName": "Temukau"
+    "skinName": "Temukau",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4697,7 +5166,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077804523/256x128",
     "price": 999.03,
     "item": "Hand Wraps",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4707,7 +5177,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042959/256x128",
     "price": 271.79,
     "item": "Sport Gloves",
-    "skinName": "Big Game"
+    "skinName": "Big Game",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4717,7 +5188,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040399/256x128",
     "price": 357.77,
     "item": "Talon Knife",
-    "skinName": "Crimson Web"
+    "skinName": "Crimson Web",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4727,7 +5199,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043048/256x128",
     "price": 145.26,
     "item": "Driver Gloves",
-    "skinName": "King Snake"
+    "skinName": "King Snake",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4737,7 +5210,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141825056/256x128",
     "price": 456.61,
     "item": "Specialist Gloves",
-    "skinName": "Marble Fade"
+    "skinName": "Marble Fade",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4747,7 +5221,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4428770291/256x128",
     "price": 30.59,
     "item": "USP-S",
-    "skinName": "The Traitor"
+    "skinName": "The Traitor",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4757,7 +5232,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/384801284/256x128",
     "price": 50.69,
     "item": "Container",
-    "skinName": "Operation Bravo Case"
+    "skinName": "Operation Bravo Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -4767,7 +5243,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5721859157/256x128",
     "price": 146.56,
     "item": "Kukri Knife",
-    "skinName": "Slaughter"
+    "skinName": "Slaughter",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4777,7 +5254,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5199684085/256x128",
     "price": 31.34,
     "item": "AK-47",
-    "skinName": "Head Shot"
+    "skinName": "Head Shot",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4787,7 +5265,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2736573351/256x128",
     "price": 56.81,
     "item": "Specialist Gloves",
-    "skinName": "Buckshot"
+    "skinName": "Buckshot",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4797,7 +5276,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4571995459/256x128",
     "price": 2350.41,
     "item": "AWP",
-    "skinName": "Desert Hydra"
+    "skinName": "Desert Hydra",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4807,7 +5287,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724101/256x128",
     "price": 101.04,
     "item": "USP-S",
-    "skinName": "Whiteout"
+    "skinName": "Whiteout",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4817,7 +5298,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/310778296/256x128",
     "price": 92.17,
     "item": "Desert Eagle",
-    "skinName": "Cobalt Disruption"
+    "skinName": "Cobalt Disruption",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4827,7 +5309,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042662/256x128",
     "price": 115.38,
     "item": "Stiletto Knife",
-    "skinName": "Rust Coat"
+    "skinName": "Rust Coat",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4837,7 +5320,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6276306995/256x128",
     "price": 170.52,
     "item": "Souvenir Desert Eagle",
-    "skinName": "Fennec Fox"
+    "skinName": "Fennec Fox",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4847,7 +5331,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042783/256x128",
     "price": 175.32,
     "item": "Bowie Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4857,7 +5342,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3770669123/256x128",
     "price": 44.54,
     "item": "M4A1-S",
-    "skinName": "Player Two"
+    "skinName": "Player Two",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -4867,7 +5353,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2738207254/256x128",
     "price": 217.06,
     "item": "Sport Gloves",
-    "skinName": "Omega"
+    "skinName": "Omega",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4877,7 +5364,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993035748/256x128",
     "price": 72.45,
     "item": "Desert Eagle",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4887,7 +5375,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038054/256x128",
     "price": 367.77,
     "item": "AWP",
-    "skinName": "Elite Build"
+    "skinName": "Elite Build",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -4897,7 +5386,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2078402647/256x128",
     "price": 2468.87,
     "item": "Sport Gloves",
-    "skinName": "Pandora's Box"
+    "skinName": "Pandora's Box",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4907,7 +5397,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5721088831/256x128",
     "price": 94.41,
     "item": "StatTrak™ AK-47",
-    "skinName": "Inheritance"
+    "skinName": "Inheritance",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4917,7 +5408,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724481/256x128",
     "price": 921.73,
     "item": "Glock-18",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4927,7 +5419,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037966/256x128",
     "price": 58.28,
     "item": "StatTrak™ AK-47",
-    "skinName": "Redline"
+    "skinName": "Redline",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4937,7 +5430,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036942/256x128",
     "price": 109.14,
     "item": "USP-S",
-    "skinName": "Printstream"
+    "skinName": "Printstream",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -4947,7 +5441,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3608084982/256x128",
     "price": 13.75,
     "item": "FBI Sniper",
-    "skinName": "Michael Syfers"
+    "skinName": "Michael Syfers",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4957,7 +5452,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038138/256x128",
     "price": 92.17,
     "item": "Falchion Knife",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4967,7 +5463,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/1815674194/256x128",
     "price": 501.91,
     "item": "Karambit",
-    "skinName": "Freehand"
+    "skinName": "Freehand",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -4977,7 +5474,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039741/256x128",
     "price": 150.56,
     "item": "StatTrak™ AK-47",
-    "skinName": "Inheritance"
+    "skinName": "Inheritance",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -4987,7 +5485,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141834897/256x128",
     "price": 99.89,
     "item": "Moto Gloves",
-    "skinName": "Finish Line"
+    "skinName": "Finish Line",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -4997,7 +5496,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4141779272/256x128",
     "price": 64.3,
     "item": "The Professionals",
-    "skinName": "Sir Bloody Loudmouth Darryl"
+    "skinName": "Sir Bloody Loudmouth Darryl",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -5007,7 +5507,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4910471701/256x128",
     "price": 76.45,
     "item": "AWP",
-    "skinName": "Chromatic Aberration"
+    "skinName": "Chromatic Aberration",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -5017,7 +5518,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3113384983/256x128",
     "price": 49.13,
     "item": "AWP",
-    "skinName": "Neo-Noir"
+    "skinName": "Neo-Noir",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -5027,7 +5529,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2221939018/256x128",
     "price": 277.58,
     "item": "Huntsman Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5037,7 +5540,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039458/256x128",
     "price": 29.68,
     "item": "M4A4",
-    "skinName": "Neo-Noir"
+    "skinName": "Neo-Noir",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -5047,7 +5551,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4142048565/256x128",
     "price": 358.58,
     "item": "Sport Gloves",
-    "skinName": "Slingshot"
+    "skinName": "Slingshot",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -5057,7 +5562,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040147/256x128",
     "price": 523.5,
     "item": "Falchion Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5067,7 +5573,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2077997547/256x128",
     "price": 1598.24,
     "item": "Moto Gloves",
-    "skinName": "Cool Mint"
+    "skinName": "Cool Mint",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -5077,7 +5584,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038739/256x128",
     "price": 92.36,
     "item": "AWP",
-    "skinName": "Man-o'-war"
+    "skinName": "Man-o'-war",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -5087,7 +5595,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040326/256x128",
     "price": 310.85,
     "item": "M9 Bayonet",
-    "skinName": "Rust Coat"
+    "skinName": "Rust Coat",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5097,7 +5606,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038822/256x128",
     "price": 1245.58,
     "item": "M9 Bayonet",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5107,7 +5617,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036430/256x128",
     "price": 50.37,
     "item": "Glock-18",
-    "skinName": "AXIA"
+    "skinName": "AXIA",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -5117,7 +5628,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/5721088416/256x128",
     "price": 24.82,
     "item": "AWP",
-    "skinName": "Chrome Cannon"
+    "skinName": "Chrome Cannon",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -5127,7 +5639,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993038058/256x128",
     "price": 290.34,
     "item": "Talon Knife",
-    "skinName": "Damascus Steel"
+    "skinName": "Damascus Steel",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5137,7 +5650,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993041457/256x128",
     "price": 380.83,
     "item": "M9 Bayonet",
-    "skinName": "Damascus Steel"
+    "skinName": "Damascus Steel",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5147,7 +5661,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993040418/256x128",
     "price": 83.36,
     "item": "Bowie Knife",
-    "skinName": "Lore"
+    "skinName": "Lore",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5157,7 +5672,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/4578724243/256x128",
     "price": 1842.54,
     "item": "AWP",
-    "skinName": "Desert Hydra"
+    "skinName": "Desert Hydra",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -5167,7 +5683,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/259074725/256x128",
     "price": 59.64,
     "item": "AWP",
-    "skinName": "Redline"
+    "skinName": "Redline",
+    "weapon_group": "Snipers"
   },
   {
     "_id": {
@@ -5177,7 +5694,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/2076475516/256x128",
     "price": 2764.27,
     "item": "Sport Gloves",
-    "skinName": "Arid"
+    "skinName": "Arid",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -5187,7 +5705,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993037807/256x128",
     "price": 97.68,
     "item": "M4A1-S",
-    "skinName": "Chantico's Fire"
+    "skinName": "Chantico's Fire",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -5197,7 +5716,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039938/256x128",
     "price": 195.02,
     "item": "Falchion Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5207,7 +5727,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3221755383/256x128",
     "price": 473.77,
     "item": "Stiletto Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5217,7 +5738,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3955334989/256x128",
     "price": 56.75,
     "item": "AK-47",
-    "skinName": "Legion of Anubis"
+    "skinName": "Legion of Anubis",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -5227,7 +5749,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036336/256x128",
     "price": 83.99,
     "item": "Bowie Knife",
-    "skinName": "Autotronic"
+    "skinName": "Autotronic",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5237,7 +5760,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/360484430/256x128",
     "price": 208.39,
     "item": "StatTrak™ AWP",
-    "skinName": "Asiimov"
+    "skinName": "Asiimov",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -5247,7 +5771,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993036523/256x128",
     "price": 195.36,
     "item": "Glock-18",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -5257,7 +5782,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6210138906/256x128",
     "price": 0.82,
     "item": "Container",
-    "skinName": "Gallery Case"
+    "skinName": "Gallery Case",
+    "weapon_group": "Containers"
   },
   {
     "_id": {
@@ -5267,7 +5793,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/360525578/256x128",
     "price": 73.83,
     "item": "AUG",
-    "skinName": "Chameleon"
+    "skinName": "Chameleon",
+    "weapon_group": "Rifles"
   },
   {
     "_id": {
@@ -5277,7 +5804,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/3574262975/256x128",
     "price": 175.77,
     "item": "Classic Knife",
-    "skinName": "Vanilla"
+    "skinName": "Vanilla",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5287,7 +5815,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993043354/256x128",
     "price": 117.26,
     "item": "Driver Gloves",
-    "skinName": "Overtake"
+    "skinName": "Overtake",
+    "weapon_group": "Gloves"
   },
   {
     "_id": {
@@ -5297,7 +5826,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993042717/256x128",
     "price": 197.24,
     "item": "Bowie Knife",
-    "skinName": "Gamma Doppler"
+    "skinName": "Gamma Doppler",
+    "weapon_group": "Knives"
   },
   {
     "_id": {
@@ -5307,7 +5837,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/370205988/256x128",
     "price": 316.87,
     "item": "Sticker",
-    "skinName": "Crown (Foil)"
+    "skinName": "Crown (Foil)",
+    "weapon_group": "Other"
   },
   {
     "_id": {
@@ -5317,7 +5848,8 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/7993039570/256x128",
     "price": 368.2,
     "item": "Desert Eagle",
-    "skinName": "Starcade"
+    "skinName": "Starcade",
+    "weapon_group": "Pistols"
   },
   {
     "_id": {
@@ -5327,6 +5859,7 @@
     "img": "https://community.steamstatic.com/economy/image/class/730/6918462906/256x128",
     "price": 406.05,
     "item": "Nomad Knife",
-    "skinName": "Doppler"
+    "skinName": "Doppler",
+    "weapon_group": "Knives"
   }
 ]

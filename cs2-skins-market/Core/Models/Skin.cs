@@ -1,8 +1,18 @@
+/**************************************************************************
+* Nom du fichier : Skin.cs
+* Auteur : Ozgun Levent
+* Date de création : 30.04.2026
+* Description : Modèle représentant un skin du marketplace.
+**************************************************************************/
+
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace cs2_skins_market.Core.Models
 {
+    /// <summary>
+    /// Représente un skin disponible dans le marketplace.
+    /// </summary>
     public class Skin
     {
         private string _id = "";
@@ -13,6 +23,9 @@ namespace cs2_skins_market.Core.Models
 
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
+        /// <summary>
+        /// Identifiant MongoDB (ObjectId).
+        /// </summary>
         public string Id
         {
             get => _id;
@@ -20,6 +33,9 @@ namespace cs2_skins_market.Core.Models
         }
 
         [BsonElement("name")]
+        /// <summary>
+        /// Nom du skin.
+        /// </summary>
         public string Name
         {
             get => _name;
@@ -27,6 +43,9 @@ namespace cs2_skins_market.Core.Models
         }
 
         [BsonElement("img")]
+        /// <summary>
+        /// URL ou chemin de l'image du skin.
+        /// </summary>
         public string Img
         {
             get => _img;
@@ -34,9 +53,15 @@ namespace cs2_skins_market.Core.Models
         }
 
         [BsonElement("price")]
+        /// <summary>
+        /// Prix actuel du skin.
+        /// </summary>
         public double Price { get; set; }
 
         [BsonElement("item")]
+        /// <summary>
+        /// Catégorie/Item du skin.
+        /// </summary>
         public string Item
         {
             get => _item;
@@ -44,6 +69,9 @@ namespace cs2_skins_market.Core.Models
         }
 
         [BsonElement("skinName")]
+        /// <summary>
+        /// Nom interne (skinName) du skin.
+        /// </summary>
         public string SkinName
         {
             get => _skinName;

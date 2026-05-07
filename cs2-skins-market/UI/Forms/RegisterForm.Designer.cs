@@ -1,3 +1,10 @@
+/**************************************************************************
+* Nom du fichier : RegisterForm.Designer.cs
+* Auteur : Ozgun Levent
+* Date de création : 06.05.2026
+* Description : Code généré par le designer WinForms (UI de RegisterForm).
+**************************************************************************/
+
 namespace cs2_skins_market.UI.Forms
 {
     partial class RegisterForm
@@ -13,6 +20,9 @@ namespace cs2_skins_market.UI.Forms
             base.Dispose(disposing);
         }
 
+        /// <summary>
+        /// Initialise l'arborescence des contrôles WinForms.
+        /// </summary>
         private void InitializeComponent()
         {
             cardPanel = new Panel();

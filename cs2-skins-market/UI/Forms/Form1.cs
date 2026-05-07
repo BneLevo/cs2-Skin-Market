@@ -1,3 +1,10 @@
+/**************************************************************************
+* Nom du fichier : Form1.cs
+* Auteur : Ozgun Levent
+* Date de création : 06.05.2026
+* Description : Écran principal du marketplace (liste des skins + filtre + ajout au panier).
+**************************************************************************/
+
 using cs2_skins_market.Business.Interfaces;
 using cs2_skins_market.Business.Services;
 using cs2_skins_market.Core;
@@ -7,11 +14,17 @@ using cs2_skins_market.UI.UserControls;
 
 namespace cs2_skins_market
 {
+    /// <summary>
+    /// Form principal du marketplace.
+    /// </summary>
     public partial class Form1 : Form
     {
         private readonly ISkinService _skinService;
         private readonly IAuthService _authService;
 
+        /// <summary>
+        /// Initialise le formulaire et les dépendances nécessaires.
+        /// </summary>
         public Form1()
         {
             InitializeComponent();
@@ -22,6 +35,9 @@ namespace cs2_skins_market
             StyleNavButtons();
         }
 
+        /// <summary>
+        /// Applique le style visuel aux boutons de navigation.
+        /// </summary>
         private void StyleNavButtons()
         {
             void Style(Button b, Color bg)
@@ -40,12 +56,18 @@ namespace cs2_skins_market
             Style(btnLogout, Color.FromArgb(180, 60, 60));
         }
 
+        /// <summary>
+        /// Callback exécuté lors du chargement du formulaire.
+        /// </summary>
         private void Form1_Load(object sender, EventArgs e)
         {
             ShowSkins(_skinService.GetAllSkins());
             RefreshHeader();
         }
 
+        /// <summary>
+        /// Affiche la liste de skins dans le panneau défilant.
+        /// </summary>
         private void ShowSkins(IEnumerable<Skin> skins)
         {
             var sortedSkins = skins.ToList();
@@ -62,6 +84,9 @@ namespace cs2_skins_market
             flpSkins.ResumeLayout();
         }
 
+        /// <summary>
+        /// Ajoute un skin au panier.
+        /// </summary>
         private void AddToCart(Skin skin)
         {
             AppSession.Cart.Add(skin);
@@ -69,12 +94,18 @@ namespace cs2_skins_market
             MessageBox.Show($"{skin.Name} added to cart.", "Cart");
         }
 
+        /// <summary>
+        /// Met à jour le budget et le nombre d'items dans le panier.
+        /// </summary>
         private void RefreshHeader()
         {
             lblBudget.Text = $"Budget: ${_authService.GetBudget():N2}";
             btnCart.Text = $"Cart ({AppSession.Cart.Count})";
         }
 
+        /// <summary>
+        /// Gère le clic sur le bouton de filtre.
+        /// </summary>
         private void btnFilter_Click(object sender, EventArgs e)
         {
             string searchName = txtSearch.Text;
@@ -95,6 +126,9 @@ namespace cs2_skins_market
         }
 
         bool allSkins = true;
+        /// <summary>
+        /// Gère la recherche en temps réel quand le texte change.
+        /// </summary>
         private void txtSearch_TextChanged(object sender, EventArgs e)
         {
             string keyword = txtSearch.Text.Trim();
@@ -114,6 +148,9 @@ namespace cs2_skins_market
          
         }
 
+        /// <summary>
+        /// Ouvre la fenêtre du panier.
+        /// </summary>
         private void btnCart_Click(object sender, EventArgs e)
         {
             using var cart = new CartForm();
@@ -121,6 +158,9 @@ namespace cs2_skins_market
             RefreshHeader();
         }
 
+        /// <summary>
+        /// Ouvre la fenêtre d'inventaire.
+        /// </summary>
         private void btnInventory_Click(object sender, EventArgs e)
         {
             using var inventory = new InventoryForm();
@@ -128,6 +168,9 @@ namespace cs2_skins_market
             RefreshHeader();
         }
 
+        /// <summary>
+        /// Ouvre la fenêtre wallet.
+        /// </summary>
         private void btnWallet_Click(object sender, EventArgs e)
         {
             using var wallet = new WalletForm();
@@ -135,6 +178,9 @@ namespace cs2_skins_market
             RefreshHeader();
         }
 
+        /// <summary>
+        /// Déconnecte l'utilisateur et ferme l'écran principal.
+        /// </summary>
         private void btnLogout_Click(object sender, EventArgs e)
         {
             AppSession.Logout();

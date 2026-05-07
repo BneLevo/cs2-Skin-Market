@@ -1,13 +1,26 @@
+/**************************************************************************
+* Nom du fichier : LoginForm.cs
+* Auteur : Ozgun Levent
+* Date de création : 05.05.2026
+* Description : Écran de connexion.
+**************************************************************************/
+
 using cs2_skins_market.Business.Interfaces;
 using cs2_skins_market.Business.Services;
 using cs2_skins_market.Data;
 
 namespace cs2_skins_market.UI.Forms
 {
+    /// <summary>
+    /// Formulaire de connexion.
+    /// </summary>
     public partial class LoginForm : Form
     {
         private readonly IAuthService _authService;
 
+        /// <summary>
+        /// Initialise l'écran de connexion.
+        /// </summary>
         public LoginForm()
         {
             DbInitializer.Initialize();
@@ -15,6 +28,9 @@ namespace cs2_skins_market.UI.Forms
             _authService = new AuthService();
         }
 
+        /// <summary>
+        /// Traite le clic sur le bouton Login.
+        /// </summary>
         private void BtnLogin_Click(object? sender, EventArgs e)
         {
             if (_authService.TryLogin(_txtUsername.Text, _txtPassword.Text, out var error))
@@ -31,6 +47,9 @@ namespace cs2_skins_market.UI.Forms
             }
         }
 
+        /// <summary>
+        /// Ouvre l'écran d'inscription.
+        /// </summary>
         private void BtnRegister_Click(object? sender, EventArgs e)
         {
             using var registerForm = new RegisterForm();

@@ -1,3 +1,10 @@
+/**************************************************************************
+* Nom du fichier : PurchaseService.cs
+* Auteur : Ozgun Levent
+* Date de création : 06.05.2026
+* Description : Gère les achats du panier et l'inventaire utilisateur.
+**************************************************************************/
+
 using cs2_skins_market.Business.Interfaces;
 using cs2_skins_market.Core;
 using cs2_skins_market.Core.Models;
@@ -6,17 +13,26 @@ using cs2_skins_market.Data.Repositories;
 
 namespace cs2_skins_market.Business.Services
 {
+    /// <summary>
+    /// Service de gestion des achats et de l'inventaire.
+    /// </summary>
     public class PurchaseService : IPurchaseService
     {
         private readonly IUserRepository _userRepository;
         private readonly IInventoryRepository _inventoryRepository;
 
+        /// <summary>
+        /// Initialise le service d'achat.
+        /// </summary>
         public PurchaseService()
         {
             _userRepository = new MongoUserRepository();
             _inventoryRepository = new MongoInventoryRepository();
         }
 
+        /// <summary>
+        /// Tente d'acheter tous les éléments présents dans le panier.
+        /// </summary>
         public bool TryPurchaseCart(out string errorMessage)
         {
             errorMessage = "";
@@ -63,6 +79,9 @@ namespace cs2_skins_market.Business.Services
             return true;
         }
 
+        /// <summary>
+        /// Retourne l'inventaire de l'utilisateur connecté.
+        /// </summary>
         public List<InventoryItem> GetInventory()
         {
             if (string.IsNullOrWhiteSpace(AppSession.Username))

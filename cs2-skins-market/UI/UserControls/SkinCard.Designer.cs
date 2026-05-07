@@ -1,9 +1,19 @@
+/**************************************************************************
+* Nom du fichier : SkinCard.Designer.cs
+* Auteur : Ozgun Levent
+* Date de création : 06.05.2026
+* Description : Code généré par le designer WinForms (UI du SkinCard).
+**************************************************************************/
+
 namespace cs2_skins_market.UI.UserControls
 {
     partial class SkinCard
     {
         private System.ComponentModel.IContainer components = null;
 
+        /// <summary>
+        /// Libère les ressources managées.
+        /// </summary>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -13,6 +23,9 @@ namespace cs2_skins_market.UI.UserControls
             base.Dispose(disposing);
         }
 
+        /// <summary>
+        /// Initialise l'arborescence des contrôles WinForms.
+        /// </summary>
         private void InitializeComponent()
         {
             cardPanel = new Panel();

@@ -1,9 +1,19 @@
+/**************************************************************************
+* Nom du fichier : CartForm.Designer.cs
+* Auteur : Ozgun Levent
+* Date de création : 06.05.2026
+* Description : Code généré par le designer WinForms (UI du panier).
+**************************************************************************/
+
 namespace cs2_skins_market.UI.Forms
 {
     partial class CartForm
     {
         private System.ComponentModel.IContainer components = null;
 
+        /// <summary>
+        /// Libère les ressources managées.
+        /// </summary>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -13,6 +23,9 @@ namespace cs2_skins_market.UI.Forms
             base.Dispose(disposing);
         }
 
+        /// <summary>
+        /// Initialise tous les contrôles de l'UI.
+        /// </summary>
         private void InitializeComponent()
         {
             pnlHeader = new Panel();

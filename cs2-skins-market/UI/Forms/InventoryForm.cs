@@ -1,3 +1,10 @@
+/**************************************************************************
+* Nom du fichier : InventoryForm.cs
+* Auteur : Ozgun Levent
+* Date de création : 06.05.2026
+* Description : Form affichant l'inventaire (skins achetées par l'utilisateur).
+**************************************************************************/
+
 using cs2_skins_market.Business.Services;
 using cs2_skins_market.Core.Models;
 using cs2_skins_market.Business.Interfaces;
@@ -5,11 +12,17 @@ using cs2_skins_market.UI.UserControls;
 
 namespace cs2_skins_market.UI.Forms
 {
+    /// <summary>
+    /// Écran de l'inventaire utilisateur.
+    /// </summary>
     public partial class InventoryForm : Form
     {
         private readonly IPurchaseService _purchaseService;
         private readonly ISkinService _skinService;
 
+        /// <summary>
+        /// Initialise l'écran inventaire et charge les items.
+        /// </summary>
         public InventoryForm()
         {
             InitializeComponent();
@@ -18,6 +31,9 @@ namespace cs2_skins_market.UI.Forms
             RefreshInventory();
         }
 
+        /// <summary>
+        /// Charge l'inventaire depuis le repository et remplit l'UI.
+        /// </summary>
         private void RefreshInventory()
         {
             var items = _purchaseService.GetInventory();
@@ -58,8 +74,19 @@ namespace cs2_skins_market.UI.Forms
             }
         }
 
+        /// <summary>
+        /// Retour vers marketplace.
+        /// </summary>
         private void btnMarket_Click(object sender, EventArgs e) => Close();
+
+        /// <summary>
+        /// Ouvre le panier.
+        /// </summary>
         private void btnCart_Click(object sender, EventArgs e) => ShopNavigation.GoToCart(this);
+
+        /// <summary>
+        /// Ouvre le wallet.
+        /// </summary>
         private void btnWallet_Click(object sender, EventArgs e) => ShopNavigation.GoToWallet(this);
     }
 }

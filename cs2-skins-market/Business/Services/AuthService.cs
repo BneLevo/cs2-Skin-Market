@@ -1,3 +1,10 @@
+/**************************************************************************
+* Nom du fichier : AuthService.cs
+* Auteur : Ozgun Levent
+* Date de création : 05.05.2026
+* Description : Gère l'inscription, la connexion et le budget utilisateur.
+**************************************************************************/
+
 using cs2_skins_market.Business.Interfaces;
 using cs2_skins_market.Core;
 using cs2_skins_market.Core.Models;
@@ -7,15 +14,24 @@ using cs2_skins_market.Utils;
 
 namespace cs2_skins_market.Business.Services
 {
+    /// <summary>
+    /// Service d'authentification et de gestion du portefeuille utilisateur.
+    /// </summary>
     public class AuthService : IAuthService
     {
         private readonly IUserRepository _userRepository;
 
+        /// <summary>
+        /// Initialise le service d'authentification.
+        /// </summary>
         public AuthService()
         {
             _userRepository = new MongoUserRepository();
         }
 
+        /// <summary>
+        /// Tente de créer un nouveau compte utilisateur.
+        /// </summary>
         public bool TryRegister(string username, string password, double budget, out string errorMessage)
         {
             errorMessage = "";
@@ -56,6 +72,9 @@ namespace cs2_skins_market.Business.Services
             return true;
         }
 
+        /// <summary>
+        /// Tente de connecter un utilisateur avec ses identifiants.
+        /// </summary>
         public bool TryLogin(string username, string password, out string errorMessage)
         {
             errorMessage = "";
@@ -77,6 +96,9 @@ namespace cs2_skins_market.Business.Services
             return true;
         }
 
+        /// <summary>
+        /// Retourne le budget actuel de l'utilisateur connecté.
+        /// </summary>
         public double GetBudget()
         {
             if (string.IsNullOrWhiteSpace(AppSession.Username))
@@ -88,6 +110,9 @@ namespace cs2_skins_market.Business.Services
             return user?.Budget ?? 0;
         }
 
+        /// <summary>
+        /// Tente d'ajouter des fonds au budget de l'utilisateur connecté.
+        /// </summary>
         public bool TryDepositFunds(double amount, out string errorMessage)
         {
             errorMessage = "";

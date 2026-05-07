@@ -1,3 +1,10 @@
+/**************************************************************************
+* Nom du fichier : Form1.Designer.cs
+* Auteur : Ozgun Levent
+* Date de création : 06.05.2026
+* Description : Code généré par le designer WinForms (UI de Form1).
+**************************************************************************/
+
 namespace cs2_skins_market
 {
     partial class Form1

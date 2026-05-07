@@ -1,7 +1,8 @@
 using cs2_skins_market.Business.Interfaces;
 using cs2_skins_market.Business.Services;
+using cs2_skins_market.Core;
 using cs2_skins_market.Core.Models;
-using cs2_skins_market.Data;
+using cs2_skins_market.UI.Forms;
 using cs2_skins_market.UI.UserControls;
 
 namespace cs2_skins_market
@@ -9,19 +10,40 @@ namespace cs2_skins_market
     public partial class Form1 : Form
     {
         private readonly ISkinService _skinService;
+        private readonly IAuthService _authService;
 
         public Form1()
         {
             InitializeComponent();
-            DbInitializer.Initialize();
             _skinService = new SkinManager();
+            _authService = new AuthService();
             this.WindowState = FormWindowState.Maximized;
             flpSkins.BackColor = Color.FromArgb(30, 30, 30);
+            StyleNavButtons();
+        }
+
+        private void StyleNavButtons()
+        {
+            void Style(Button b, Color bg)
+            {
+                b.FlatStyle = FlatStyle.Flat;
+                b.FlatAppearance.BorderSize = 0;
+                b.BackColor = bg;
+                b.ForeColor = Color.White;
+                b.Font = new Font("Segoe UI", 9, FontStyle.Bold);
+                b.Cursor = Cursors.Hand;
+            }
+
+            Style(btnCart, Color.FromArgb(255, 152, 0));
+            Style(btnInventory, Color.FromArgb(33, 150, 243));
+            Style(btnWallet, Color.FromArgb(0, 188, 212));
+            Style(btnLogout, Color.FromArgb(180, 60, 60));
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             ShowSkins(_skinService.GetAllSkins());
+            RefreshHeader();
         }
 
         private void ShowSkins(IEnumerable<Skin> skins)
@@ -33,11 +55,24 @@ namespace cs2_skins_market
 
             foreach (var skin in sortedSkins)
             {
-                var card = new SkinCard(skin);
+                var card = new SkinCard(skin, AddToCart);
                 flpSkins.Controls.Add(card);
             }
 
             flpSkins.ResumeLayout();
+        }
+
+        private void AddToCart(Skin skin)
+        {
+            AppSession.Cart.Add(skin);
+            RefreshHeader();
+            MessageBox.Show($"{skin.Name} added to cart.", "Cart");
+        }
+
+        private void RefreshHeader()
+        {
+            lblBudget.Text = $"Budget: ${_authService.GetBudget():N2}";
+            btnCart.Text = $"Cart ({AppSession.Cart.Count})";
         }
 
         private void btnFilter_Click(object sender, EventArgs e)
@@ -50,7 +85,7 @@ namespace cs2_skins_market
 
             if (min > max)
             {
-                MessageBox.Show("Min price cannot be greater than max price.", "Warning");
+                MessageBox.Show("Min price cannot be greater than max price.", "Validation");
                 return;
             }
 
@@ -77,6 +112,33 @@ namespace cs2_skins_market
                 ShowSkins(results);
             }
          
+        }
+
+        private void btnCart_Click(object sender, EventArgs e)
+        {
+            using var cart = new CartForm();
+            cart.ShowDialog();
+            RefreshHeader();
+        }
+
+        private void btnInventory_Click(object sender, EventArgs e)
+        {
+            using var inventory = new InventoryForm();
+            inventory.ShowDialog();
+            RefreshHeader();
+        }
+
+        private void btnWallet_Click(object sender, EventArgs e)
+        {
+            using var wallet = new WalletForm();
+            wallet.ShowDialog();
+            RefreshHeader();
+        }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            AppSession.Logout();
+            Close();
         }
     }
 }

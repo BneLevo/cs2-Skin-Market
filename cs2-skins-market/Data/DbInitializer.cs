@@ -1,4 +1,4 @@
-﻿using System.Text.Json;
+using System.Text.Json;
 using cs2_skins_market.Core.Models;
 using cs2_skins_market.Data.Interfaces;
 using cs2_skins_market.Data.Repositories;

@@ -1,4 +1,4 @@
-﻿using cs2_skins_market.Core.Models;
+using cs2_skins_market.Core.Models;
 using cs2_skins_market.Data.Interfaces;
 using MongoDB.Driver;
 

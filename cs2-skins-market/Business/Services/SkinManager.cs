@@ -1,4 +1,4 @@
-﻿using cs2_skins_market.Business.Interfaces;
+using cs2_skins_market.Business.Interfaces;
 using cs2_skins_market.Core.Models;
 using cs2_skins_market.Data;
 using cs2_skins_market.Data.Interfaces;
@@ -6,7 +6,7 @@ using cs2_skins_market.Data.Repositories;
 
 namespace cs2_skins_market.Business.Services
 {
-    class SkinManager : ISkinService
+    public class SkinManager : ISkinService
     {
         private readonly ISkinRepository _skinRepo;
 
